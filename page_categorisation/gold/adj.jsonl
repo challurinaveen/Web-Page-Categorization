@@ -1,0 +1,89 @@
+{"gid":"G0464","type":"Disease & Therapy Area","audience":"General Public","reason":"URL is carbon-ion radiotherapy topic page; function over nav"}
+{"gid":"G0034","type":"Utility / Error","audience":"Healthcare Professional","reason":"Bare viewer shell; header declares US HCPs"}
+{"gid":"G0283","type":"R&D & Science","audience":"Business Partner","reason":"Research grant call; researchers seeking funding"}
+{"gid":"G0300","type":"News & Media","audience":"General Public","reason":"Society press-room news item, dated"}
+{"gid":"G0620","type":"Homepage / Hub","audience":"Healthcare Professional","reason":"External organisation front page"}
+{"gid":"G0277","type":"About the Company","audience":"Business Partner","reason":"Describes company innovation accelerator programme and collaborators"}
+{"gid":"G0518","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"COPD clinical tool explainer, HCP-declared site"}
+{"gid":"G0229","type":"Login / Registration","audience":"Unclear","reason":"Email verification shell, no audience signal"}
+{"gid":"G0327","type":"Login / Registration","audience":"Healthcare Professional","reason":"Registration sign-up page on HCP portal"}
+{"gid":"G0627","type":"Homepage / Hub","audience":"Healthcare Professional","reason":"Congress site front page routing to sections"}
+{"gid":"G0272","type":"Utility / Error","audience":"Healthcare Professional","reason":"500 error; HCP declaration in header"}
+{"gid":"G0228","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Research ethics guideline document, closest to guideline"}
+{"gid":"G0316","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"Epidemiology report by oncology society, technical register"}
+{"gid":"G0403","type":"Homepage / Hub","audience":"Patient / Caregiver","reason":"Navigation hub of patient site, nav-only text"}
+{"gid":"G0328","type":"Login / Registration","audience":"Healthcare Professional","reason":"Registration for e-communication, sign up"}
+{"gid":"G0727","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"ADAURA trial efficacy results page"}
+{"gid":"G0159","type":"R&D & Science","audience":"General Public","reason":"Trial enrollment guidance for health promotion materials"}
+{"gid":"G0239","type":"Other","audience":"General Public","reason":"NEW:Policy/think-tank report; no type fits"}
+{"gid":"G0252","type":"Safety Reporting","audience":"Patient / Caregiver","reason":"Lay address 'usted' reporting own reaction"}
+{"gid":"G0698","type":"Disease & Therapy Area","audience":"Patient / Caregiver","reason":"Disease awareness on eosinophilic asthma"}
+{"gid":"G0749","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Phase III trial data page"}
+{"gid":"G0471","type":"Homepage / Hub","audience":"Patient / Caregiver","reason":"Front page routing to community sections"}
+{"gid":"G0532","type":"R&D & Science","audience":"Business Partner","reason":"Innovation challenge call for solutions"}
+{"gid":"G0542","type":"Utility / Error","audience":"Unclear","reason":"Chat widget shell, no content"}
+{"gid":"G0333","type":"Medical Education & Events","audience":"Healthcare Professional","reason":"GP training video on referral guidance"}
+{"gid":"G0357","type":"Legal & Compliance","audience":"Healthcare Professional","reason":"Cookie/privacy page on HCP e-communication portal"}
+{"gid":"G0473","type":"Login / Registration","audience":"General Public","reason":"Terms consent gate; no HCP declaration"}
+{"gid":"G0412","type":"Listing / Library","audience":"Patient / Caregiver","reason":"List page linking to many patient experience stories"}
+{"gid":"G0134","type":"Homepage / Hub","audience":"Patient / Caregiver","reason":"Residential care front page: admissions, care, residents"}
+{"gid":"G0017","type":"Utility / Error","audience":"Healthcare Professional","reason":"Empty PDF viewer shell; HCP site declaration"}
+{"gid":"G0567","type":"Listing / Library","audience":"Healthcare Professional","reason":"Congress library page listing booths/institutions"}
+{"gid":"G0200","type":"Sustainability","audience":"Business Partner","reason":"Drug donation programme procedure for hospitals"}
+{"gid":"G0465","type":"Patient Support","audience":"Patient / Caregiver","reason":"Patient-voice survey report in patient support section"}
+{"gid":"G0319","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Technical epidemiological study report"}
+{"gid":"G0540","type":"Utility / Error","audience":"Unclear","reason":"Only cookie consent text, no real content"}
+{"gid":"G0454","type":"Homepage / Hub","audience":"Patient / Caregiver","reason":"Hospital front page oriented to visiting patients"}
+{"gid":"G0788","type":"Gateway / Selector","audience":"General Public","reason":"Selector for HCP, patient, public"}
+{"gid":"G0596","type":"Login / Registration","audience":"Healthcare Professional","reason":"Prelogin gate with requesturl, HCP declared"}
+{"gid":"G0470","type":"Other","audience":"General Public","reason":"NEW:unrelated external consultation service page"}
+{"gid":"G0459","type":"Patient Support","audience":"General Public","reason":"Explains pharmacy health-support service for public"}
+{"gid":"G0595","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"Asthma clinical practice resources in disease-education section"}
+{"gid":"G0639","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"COPD clinical checklist tool, not trial evidence"}
+{"gid":"G0291","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Screening programme results report"}
+{"gid":"G0368","type":"Patient Support","audience":"Patient / Caregiver","reason":"Patient brochure per rule 2"}
+{"gid":"G0031","type":"Listing / Library","audience":"Healthcare Professional","reason":"Index listing therapy areas"}
+{"gid":"G0000","type":"Safety Reporting","audience":"General Public","reason":"AE/PQC reporting entry with country selector"}
+{"gid":"G0692","type":"Patient Support","audience":"Patient / Caregiver","reason":"Patient alert card, patient material"}
+{"gid":"G0330","type":"Login / Registration","audience":"Healthcare Professional","reason":"Registration for HCP e-communication"}
+{"gid":"G0026","type":"Listing / Library","audience":"Healthcare Professional","reason":"Index list of many PIs"}
+{"gid":"G0370","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"Heart failure clinical checklist tool"}
+{"gid":"G0690","type":"Disease & Therapy Area","audience":"Patient / Caregiver","reason":"Symptom awareness flyer, disease education in lay language"}
+{"gid":"G0292","type":"Disease & Therapy Area","audience":"General Public","reason":"Public-health policy report on lung cancer"}
+{"gid":"G0503","type":"Login / Registration","audience":"Healthcare Professional","reason":"Content stub with register/login prompt, HCP-declared"}
+{"gid":"G0043","type":"Sustainability","audience":"Business Partner","reason":"Grants office under sustainability; grant applicants"}
+{"gid":"G0482","type":"Login / Registration","audience":"Healthcare Professional","reason":"Gated stub with register/login prompt"}
+{"gid":"G0303","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Journal article in The Lancet"}
+{"gid":"G0198","type":"Homepage / Hub","audience":"General Public","reason":"Programme front page routing to sections"}
+{"gid":"G0241","type":"Disease & Therapy Area","audience":"General Public","reason":"Therapy-area overview with medicines lists"}
+{"gid":"G0386","type":"Disease & Therapy Area","audience":"General Public","reason":"COPD education; site declared for general public"}
+{"gid":"G0672","type":"Product Information","audience":"Healthcare Professional","reason":"Brand content; gate overlay HCP-only"}
+{"gid":"G0546","type":"Homepage / Hub","audience":"General Public","reason":"Front page of unrelated research project site"}
+{"gid":"G0410","type":"Patient Support","audience":"Patient / Caregiver","reason":"Patient experience stories section entry"}
+{"gid":"G0664","type":"Product Information","audience":"Healthcare Professional","reason":"Brand resource page; gate overlay HCP-only"}
+{"gid":"G0691","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Speaker slides per document rule"}
+{"gid":"G0792","type":"Other","audience":"General Public","reason":"NEW:Social media profile"}
+{"gid":"G0156","type":"Disease & Therapy Area","audience":"Healthcare Professional","reason":"CDC asthma programme report, technical register"}
+{"gid":"G0461","type":"Listing / Library","audience":"General Public","reason":"Index of FAQ links, unrelated site"}
+{"gid":"G0001","type":"Form / Request","audience":"General Public","reason":"Page purpose is submitting opt-out request"}
+{"gid":"G0640","type":"Safety Reporting","audience":"General Public","reason":"AE/PQC reporting entry with country selector"}
+{"gid":"G0628","type":"Medical Education & Events","audience":"Healthcare Professional","reason":"ESMO congress calendar page, nav-only evidence"}
+{"gid":"G0629","type":"Medical Education & Events","audience":"Healthcare Professional","reason":"ESMO congress calendar page, same as sibling"}
+{"gid":"G0288","type":"R&D & Science","audience":"Business Partner","reason":"Research award call rules for investigators"}
+{"gid":"G0656","type":"Product Information","audience":"Healthcare Professional","reason":"Brand resource download on HCP-only site"}
+{"gid":"G0085","type":"Sustainability","audience":"Business Partner","reason":"Community contributions programme for non-profit applicants"}
+{"gid":"G0588","type":"Utility / Error","audience":"Healthcare Professional","reason":"Bare poster viewer shell; HCP declaration"}
+{"gid":"G0475","type":"Form / Request","audience":"General Public","reason":"Blank form template to complete"}
+{"gid":"G0617","type":"Utility / Error","audience":"Unclear","reason":"Bare podcast embed player, no content"}
+{"gid":"G0529","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"Meeting slides per document rule; HCP declared"}
+{"gid":"G0039","type":"Homepage / Hub","audience":"Business Partner","reason":"Site front page routing to collaboration sections"}
+{"gid":"G0474","type":"Form / Request","audience":"General Public","reason":"Blank form template to complete"}
+{"gid":"G0047","type":"Homepage / Hub","audience":"General Public","reason":"Clinical trials site front page with nav"}
+{"gid":"G0522","type":"R&D & Science","audience":"Business Partner","reason":"Innovation challenge call for solutions"}
+{"gid":"G0374","type":"Disease & Therapy Area","audience":"General Public","reason":"Health authority explainer on pregnancy nutrition"}
+{"gid":"G0072","type":"Other","audience":"Healthcare Professional","reason":"NEW:Social media profile"}
+{"gid":"G0462","type":"Homepage / Hub","audience":"Patient / Caregiver","reason":"Front page routing to patient disease sections"}
+{"gid":"G0250","type":"Listing / Library","audience":"Media","reason":"Press release archive index by year"}
+{"gid":"G0554","type":"Clinical Evidence","audience":"Healthcare Professional","reason":"White paper on pilot programme learnings"}
+{"gid":"G0345","type":"Homepage / Hub","audience":"Healthcare Professional","reason":"Therapy-area section page routing to education, materials, trials"}
+{"gid":"G0535","type":"News & Media","audience":"Healthcare Professional","reason":"Society news item on position statement"}

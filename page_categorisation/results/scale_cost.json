@@ -1,0 +1,29 @@
+{
+ "rules_pages_per_s_1core": 179.09804261287198,
+ "system_tokens": 2071.5625,
+ "page_view_tokens": 331.584375,
+ "output_tokens": 70,
+ "haiku_usd_per_1k_pages_nocache": 0.2753146875,
+ "haiku_usd_per_1k_pages_batch50": 0.13765734375,
+ "sonnet_usd_per_1k_pages_nocache": 5.50629375,
+ "sonnet_usd_per_1k_pages_batch50": 2.753146875,
+ "annotator_A_type_acc": 0.9575,
+ "annotator_A_aud_acc": 0.985,
+ "annotator_A_share_conf3": 0.5325,
+ "annotator_A_type_acc_conf3": 1.0,
+ "annotator_A_aud_acc_conf3": 0.9976525821596244,
+ "annotator_B_type_acc": 0.95125,
+ "annotator_B_aud_acc": 0.985,
+ "annotator_B_share_conf3": 0.53,
+ "annotator_B_type_acc_conf3": 0.9858490566037735,
+ "annotator_B_aud_acc_conf3": 0.9929245283018868,
+ "llm_conf_vs_agree": {
+  "1": 0.65625,
+  "2": 0.8516129032258064,
+  "3": 0.9953051643192489
+ },
+ "units": 10625,
+ "units_third_party": 3289,
+ "units_after_near_dup_removal": 8622,
+ "templates": 3082
+}

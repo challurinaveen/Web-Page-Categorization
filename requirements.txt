@@ -1,0 +1,16 @@
+# Streamlit Cloud installs this file. Tier 3 only - no PyTorch, no scikit-learn.
+#
+# The full research pipeline (tiers 1-2, benchmarking, the learning curve) needs
+# page_categorisation/requirements.txt instead, which pulls sentence-transformers
+# and therefore a 2-3 GB PyTorch download. That is why the deployed app is LLM-only.
+
+# Pinned to the 1.x line: the app's CSS targets Streamlit's own data-testids, and a
+# major bump can rename them. Verified against 1.66.
+streamlit>=1.40,<2
+anthropic>=0.40
+pandas>=2.2
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=4.0
+langdetect>=1.0.9

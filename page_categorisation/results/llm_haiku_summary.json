@@ -1,0 +1,488 @@
+{
+ "n": 800,
+ "type": {
+  "llm": 0.80875,
+  "llm_ci": [
+   0.78121875,
+   0.83375
+  ],
+  "llm_weighted": 0.8878618810708363,
+  "llm_weighted_ci": [
+   0.8362236071456852,
+   0.9274528403753064
+  ],
+  "cascade": 0.44125,
+  "cascade_weighted": 0.5300085533987453,
+  "paired_gain": 0.3675,
+  "only_llm_right": 329,
+  "only_cascade_right": 35
+ },
+ "audience": {
+  "llm": 0.90375,
+  "llm_ci": [
+   0.88375,
+   0.9225
+  ],
+  "llm_weighted": 0.9206540350197067,
+  "llm_weighted_ci": [
+   0.8375398191510783,
+   0.9715813185799482
+  ],
+  "cascade": 0.6775,
+  "cascade_weighted": 0.7025032229083402,
+  "paired_gain": 0.22625000000000006,
+  "only_llm_right": 213,
+  "only_cascade_right": 32
+ },
+ "by_confidence": [
+  {
+   "conf": 3,
+   "n": 310,
+   "share": 0.3875,
+   "type_acc": 0.9258064516129032,
+   "type_ci": [
+    0.8911332283920013,
+    0.9500554476789849
+   ],
+   "aud_acc": 0.9741935483870968,
+   "aud_ci": [
+    0.9499114644381277,
+    0.9868668339136524
+   ]
+  },
+  {
+   "conf": 2,
+   "n": 445,
+   "share": 0.55625,
+   "type_acc": 0.7595505617977528,
+   "type_ci": [
+    0.7177300892735159,
+    0.7969280885780916
+   ],
+   "aud_acc": 0.8764044943820225,
+   "aud_ci": [
+    0.8425646113411828,
+    0.9038011444176418
+   ]
+  },
+  {
+   "conf": 1,
+   "n": 45,
+   "share": 0.05625,
+   "type_acc": 0.4888888888888889,
+   "type_ci": [
+    0.3495678935302451,
+    0.6299577567351026
+   ],
+   "aud_acc": 0.6888888888888889,
+   "aud_ci": [
+    0.5433492001245104,
+    0.8047147453645809
+   ]
+  }
+ ],
+ "cumulative": [
+  {
+   "min_conf": 3,
+   "coverage": 0.3875,
+   "type_acc": 0.9258064516129032,
+   "aud_acc": 0.9741935483870968
+  },
+  {
+   "min_conf": 2,
+   "coverage": 0.94375,
+   "type_acc": 0.8278145695364238,
+   "aud_acc": 0.9165562913907285
+  },
+  {
+   "min_conf": 1,
+   "coverage": 1.0,
+   "type_acc": 0.80875,
+   "aud_acc": 0.90375
+  }
+ ],
+ "agreement_with_annotators": {
+  "A": {
+   "type": 0.81,
+   "audience": 0.9
+  },
+  "B": {
+   "type": 0.7975,
+   "audience": 0.8975
+  }
+ },
+ "annotator_A_vs_B": {
+  "type": 0.9125,
+  "audience": 0.97
+ },
+ "per_site": [
+  {
+   "site": "medicalinformation.astrazeneca-us.com",
+   "n": 80,
+   "llm_type": 0.912,
+   "llm_aud": 0.95,
+   "casc_type": 0.538,
+   "casc_aud": 0.8
+  },
+  {
+   "site": "www.astrazeneca-us.com",
+   "n": 80,
+   "llm_type": 0.825,
+   "llm_aud": 0.888,
+   "casc_type": 0.475,
+   "casc_aud": 0.65
+  },
+  {
+   "site": "www.astrazeneca.com",
+   "n": 80,
+   "llm_type": 0.85,
+   "llm_aud": 0.912,
+   "casc_type": 0.55,
+   "casc_aud": 0.675
+  },
+  {
+   "site": "www.astrazeneca.es",
+   "n": 80,
+   "llm_type": 0.85,
+   "llm_aud": 0.875,
+   "casc_type": 0.388,
+   "casc_aud": 0.5
+  },
+  {
+   "site": "www.astrazenecaconnect.net",
+   "n": 80,
+   "llm_type": 0.825,
+   "llm_aud": 0.862,
+   "casc_type": 0.275,
+   "casc_aud": 0.25
+  },
+  {
+   "site": "www.az-oncology.jp",
+   "n": 80,
+   "llm_type": 0.8,
+   "llm_aud": 0.85,
+   "casc_type": 0.5,
+   "casc_aud": 0.65
+  },
+  {
+   "site": "www.azone.es",
+   "n": 80,
+   "llm_type": 0.812,
+   "llm_aud": 0.9,
+   "casc_type": 0.475,
+   "casc_aud": 0.8
+  },
+  {
+   "site": "www.medicalinformation.astrazeneca.pt",
+   "n": 80,
+   "llm_type": 0.762,
+   "llm_aud": 0.988,
+   "casc_type": 0.35,
+   "casc_aud": 0.838
+  },
+  {
+   "site": "www.myastrazeneca.be",
+   "n": 80,
+   "llm_type": 0.675,
+   "llm_aud": 0.875,
+   "casc_type": 0.412,
+   "casc_aud": 0.825
+  },
+  {
+   "site": "www.myastrazeneca.co.uk",
+   "n": 80,
+   "llm_type": 0.775,
+   "llm_aud": 0.938,
+   "casc_type": 0.45,
+   "casc_aud": 0.788
+  }
+ ],
+ "slices": {
+  "html": {
+   "n": 613,
+   "type": 0.8091353996737357,
+   "aud": 0.9037520391517129,
+   "cascade_type": 0.44045676998368677,
+   "cascade_aud": 0.7047308319738989
+  },
+  "pdf": {
+   "n": 187,
+   "type": 0.8074866310160428,
+   "aud": 0.9037433155080213,
+   "cascade_type": 0.44385026737967914,
+   "cascade_aud": 0.5882352941176471
+  },
+  "own_domain": {
+   "n": 540,
+   "type": 0.8148148148148148,
+   "aud": 0.924074074074074,
+   "cascade_type": 0.43703703703703706,
+   "cascade_aud": 0.7555555555555555
+  },
+  "external": {
+   "n": 260,
+   "type": 0.7961538461538461,
+   "aud": 0.8615384615384616,
+   "cascade_type": 0.45,
+   "cascade_aud": 0.5153846153846153
+  }
+ },
+ "per_class_type": [
+  {
+   "cls": "Clinical Evidence",
+   "n": 127,
+   "llm_recall": 0.8503937007874016,
+   "cascade_recall": 0.4881889763779528
+  },
+  {
+   "cls": "Disease & Therapy Area",
+   "n": 110,
+   "llm_recall": 0.7727272727272727,
+   "cascade_recall": 0.43636363636363634
+  },
+  {
+   "cls": "Homepage / Hub",
+   "n": 74,
+   "llm_recall": 0.8108108108108109,
+   "cascade_recall": 0.6756756756756757
+  },
+  {
+   "cls": "Patient Support",
+   "n": 65,
+   "llm_recall": 0.8615384615384616,
+   "cascade_recall": 0.7230769230769231
+  },
+  {
+   "cls": "Listing / Library",
+   "n": 56,
+   "llm_recall": 0.7857142857142857,
+   "cascade_recall": 0.03571428571428571
+  },
+  {
+   "cls": "Product Information",
+   "n": 55,
+   "llm_recall": 0.6,
+   "cascade_recall": 0.3090909090909091
+  },
+  {
+   "cls": "Medical Education & Events",
+   "n": 44,
+   "llm_recall": 0.8636363636363636,
+   "cascade_recall": 0.18181818181818182
+  },
+  {
+   "cls": "Sustainability",
+   "n": 44,
+   "llm_recall": 0.8409090909090909,
+   "cascade_recall": 0.6363636363636364
+  },
+  {
+   "cls": "Legal & Compliance",
+   "n": 29,
+   "llm_recall": 0.9655172413793104,
+   "cascade_recall": 0.27586206896551724
+  },
+  {
+   "cls": "Login / Registration",
+   "n": 27,
+   "llm_recall": 0.7037037037037037,
+   "cascade_recall": 0.2962962962962963
+  },
+  {
+   "cls": "Article / Story",
+   "n": 24,
+   "llm_recall": 0.75,
+   "cascade_recall": 0.2916666666666667
+  },
+  {
+   "cls": "Utility / Error",
+   "n": 20,
+   "llm_recall": 0.8,
+   "cascade_recall": 0.2
+  },
+  {
+   "cls": "Prescribing Information",
+   "n": 18,
+   "llm_recall": 0.9444444444444444,
+   "cascade_recall": 0.8333333333333334
+  },
+  {
+   "cls": "Form / Request",
+   "n": 16,
+   "llm_recall": 0.9375,
+   "cascade_recall": 0.125
+  },
+  {
+   "cls": "News & Media",
+   "n": 15,
+   "llm_recall": 1.0,
+   "cascade_recall": 0.6666666666666666
+  },
+  {
+   "cls": "Other",
+   "n": 15,
+   "llm_recall": 0.6,
+   "cascade_recall": 0.4666666666666667
+  },
+  {
+   "cls": "About the Company",
+   "n": 14,
+   "llm_recall": 0.7857142857142857,
+   "cascade_recall": 0.6428571428571429
+  },
+  {
+   "cls": "R&D & Science",
+   "n": 14,
+   "llm_recall": 0.35714285714285715,
+   "cascade_recall": 0.42857142857142855
+  },
+  {
+   "cls": "Gateway / Selector",
+   "n": 11,
+   "llm_recall": 1.0,
+   "cascade_recall": 0.09090909090909091
+  }
+ ],
+ "per_class_audience": [
+  {
+   "cls": "Business Partner",
+   "n": 24,
+   "llm_recall": 0.875,
+   "cascade_recall": 0.375
+  },
+  {
+   "cls": "General Public",
+   "n": 212,
+   "llm_recall": 0.8160377358490566,
+   "cascade_recall": 0.6415094339622641
+  },
+  {
+   "cls": "Healthcare Professional",
+   "n": 423,
+   "llm_recall": 0.9408983451536643,
+   "cascade_recall": 0.7470449172576832
+  },
+  {
+   "cls": "Investor",
+   "n": 7,
+   "llm_recall": 1.0,
+   "cascade_recall": 0.5714285714285714
+  },
+  {
+   "cls": "Media",
+   "n": 13,
+   "llm_recall": 0.9230769230769231,
+   "cascade_recall": 0.38461538461538464
+  },
+  {
+   "cls": "Patient / Caregiver",
+   "n": 106,
+   "llm_recall": 0.9433962264150944,
+   "cascade_recall": 0.6509433962264151
+  },
+  {
+   "cls": "Unclear",
+   "n": 15,
+   "llm_recall": 0.8,
+   "cascade_recall": 0.2
+  }
+ ],
+ "top_type_confusions": [
+  {
+   "gold": "Product Information",
+   "llm": "Prescribing Information",
+   "n": 12
+  },
+  {
+   "gold": "Disease & Therapy Area",
+   "llm": "Homepage / Hub",
+   "n": 9
+  },
+  {
+   "gold": "Disease & Therapy Area",
+   "llm": "Other",
+   "n": 5
+  },
+  {
+   "gold": "Login / Registration",
+   "llm": "Gateway / Selector",
+   "n": 5
+  },
+  {
+   "gold": "Listing / Library",
+   "llm": "Clinical Evidence",
+   "n": 4
+  },
+  {
+   "gold": "Homepage / Hub",
+   "llm": "Disease & Therapy Area",
+   "n": 4
+  },
+  {
+   "gold": "Disease & Therapy Area",
+   "llm": "Medical Education & Events",
+   "n": 3
+  },
+  {
+   "gold": "Clinical Evidence",
+   "llm": "Product Information",
+   "n": 3
+  }
+ ],
+ "top_aud_confusions": [
+  {
+   "gold": "General Public",
+   "llm": "Unclear",
+   "n": 15
+  },
+  {
+   "gold": "Healthcare Professional",
+   "llm": "Unclear",
+   "n": 13
+  },
+  {
+   "gold": "General Public",
+   "llm": "Healthcare Professional",
+   "n": 10
+  },
+  {
+   "gold": "Healthcare Professional",
+   "llm": "General Public",
+   "n": 9
+  },
+  {
+   "gold": "General Public",
+   "llm": "Patient / Caregiver",
+   "n": 5
+  },
+  {
+   "gold": "Patient / Caregiver",
+   "llm": "General Public",
+   "n": 5
+  }
+ ],
+ "cost": {
+  "usd_total": 0.1366685,
+  "usd_per_1k": 0.17083562500000002,
+  "usd_per_million": 170.83562500000002,
+  "avg_uncached_in": 514.775,
+  "avg_cached_in": 2923.0,
+  "avg_out": 180.25625,
+  "cache_write_tokens": 0,
+  "usd_per_1k_if_no_cache": 0.433905625,
+  "cost_all_10625_pages": 1.815128515625,
+  "cost_8622_units": 1.4729447587500002
+ },
+ "speed": {
+  "wall_seconds": 184.6,
+  "pages_per_second": 4.333694474539545,
+  "parallel_requests": 8
+ },
+ "human_check_halfwidth_pts": {
+  "80": 8.765386471799177,
+  "100": 7.84,
+  "200": 5.543717164502533,
+  "400": 3.92
+ },
+ "templates_all_10625": 3093
+}

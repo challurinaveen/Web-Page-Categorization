@@ -1,0 +1,540 @@
+
+### C0  n=103  pdf=18% 3p=4% sites={'azone.es': np.int64(97), 'astrazeneca.es': np.int64(6)}
+  tokens: actualidad innovacion journal catalizador oncologia multibrand medicina one infografia diagnostico
+   - [es] 'AI Journal Club'  https://www.azone.es/actualidad/innovacion/ai-journal-club/oncologia/episodio-1-coral-expert.html
+   - [es] 'Volver'  https://www.azone.es/actualidad/evaluacion-respuestas-chatgpt-cancer-pulmon.html
+   - [es] 'El consorcio BREATHE desarrolla una solución basada en inteligencia ar'  https://www.astrazeneca.es/medios/notas-prensa/2025/El_consorcio_BREATHE_desarrolla_una_solucion_basada_en_int
+   - [es] 'Actualidad · Artículo'  https://www.azone.es/actualidad/pantallas-en-la-infancia--evidencia-cientifica-sobre-salud-y-bie.html
+   - [es] 'Volver'  https://www.azone.es/actualidad/avances-ia-diagnostico-tratamiento-cancer.html
+   - [es] 'Actualidad · Artículo · Cardiovascular, Renal y Metabolismo'  https://www.azone.es/actualidad/revolucion-digital-medicina-aplicaciones-cardio-oncologia.html
+
+### C1  n=318  pdf=94% 3p=68% sites={'medicalinformation.astrazeneca.pt': np.int64(166), 'medicalinformation.astrazeneca-us.com': np.int64(135), 'myastrazeneca.be': np.int64(7)}
+  tokens: source getdownloadlink json jcr info congress med viewer medical library
+   - [en] 'Poster 625'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/8ab00d47-3dad-4719-8c50-d32d2fe5b52f
+   - [en] 'ASCO Gastrointestinal Cancers Symposium, January 23-25, 2025'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/cd3f4e3c-748a-491a-9b8d-3d38cd017460
+   - [en] '233b'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/b78ad359-d37f-4fcc-b59d-5f7a7e5effd6
+   - [en] 'ARTEMIDE-Gastric01: a phase 3, randomized study of rilvegostomig with '  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/3f24d299-52bb-4897-b5c1-def70067d612
+   - [en] 'Poster 139P'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/72f52ba4-eba4-4632-97dd-4d80e501adeb
+   - [en] 'GEMINI-PeriOp Gastric: A phase 2 study of novel agent-based combinatio'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/0de30492-fd31-45ec-9075-d56d90a0e519
+
+### C2  n=178  pdf=37% 3p=13% sites={'astrazeneca-us.com': np.int64(97), 'astrazeneca.com': np.int64(72), 'medicalinformation.astrazeneca-us.com': np.int64(3)}
+  tokens: podcast transcript articles astrazeneca sustainability science can what grant centre
+   - [en] '"That\'s Understandable" Podcast - Season 1 - Episode 2'  https://www.astrazeneca-us.com/content/dam/az-us/media/podcast/podcast-pdf/AZ_Podcast_Transcript_S01E02.pdf
+   - [en] 'Top Charts'  https://podcasts.apple.com/us/podcast/ep-214-innovating-large-scale-and-sustainable/id1462418412?i=10007375848
+   - [en] 'AstraZeneca plans to increase investment and scope of its Virginia man'  https://www.astrazeneca.com/media-centre/press-releases/2025/astrazeneca-plans-to-increase-investment-and-scop
+   - [en] '"That\'s Understandable" Podcast - Season 1 - Episode 5'  https://www.astrazeneca-us.com/content/dam/az-us/media/podcast/podcast-pdf/AZ_Podcast_Transcript_S01E05.pdf
+   - [en] 'Rethinking prevention:'  https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/rethinking-prevention-of-recurren
+   - [en] 'Eosinophilic Inflammation'  https://www.astrazeneca.com/our-therapy-areas/eosinophilic-inflammation.html
+
+### C3  n=365  pdf=0% 3p=0% sites={'az-oncology.jp': np.int64(365)}
+  tokens: taiken detail tips list treatment cancer side recipe signpost symptoms
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/cancer_type/
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/taiken/taiken_detail.asp?id=392&type=13
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/cancer_treatment/gap/gap03.html
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/cancer_treatment/myself/
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/tips/recipe/202008.html
+   - [ja] 'がんになっても ーがんの治療を、その人「らしい生活」のなかでー'  https://www.az-oncology.jp/taiken/taiken_detail.asp?id=337&type=4
+
+### C4  n=297  pdf=71% 3p=68% sites={'medicalinformation.astrazeneca-us.com': np.int64(158), 'medicalinformation.astrazeneca.pt': np.int64(62), 'astrazeneca.com': np.int64(42)}
+  tokens: source congress releases press centre json getdownloadlink jcr info medical
+   - [en] 'AstraZeneca'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/2741e865-0c1b-4d6c-b7aa-dfa84e91fdb6
+   - [en] 'P1749'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/2f35103d-ed02-4e76-97fe-8449cf434147
+   - [en] 'EUROPEAN CONGRESS'  https://distribution-congress.eular.org/from.storage?image=15rRXWmdOAJ77zPlkD-rQhoFvcAsuCTvxLU-oihchgh3mWA51et
+   - [en] 'Statistically significant NATRON Phase III trial results for hypereosi'  https://www.astrazeneca.com/media-centre/medical-releases/statistically-significant-natron-phase-iii-trial-res
+   - [en] 'Treatment With Anifrolumab Prevents Long-term Cardiovascular Damage'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/9da68389-d6dd-4860-917c-85ee77ec9b12
+   - [en] 'P9-016'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/055c6804-3976-4d2b-aa71-5ee35fbd6730
+
+### C5  n=223  pdf=74% 3p=2% sites={'medicalinformation.astrazeneca.pt': np.int64(206), 'astrazeneca.com': np.int64(16), 'astrazeneca.es': np.int64(1)}
+  tokens: info library med medical congress getdownloadlink jcr json evento recursos
+   - [pt] 'Patient Profile Think Tank – CPNPC'  https://www.medicalinformation.astrazeneca.pt/congress-library/recursos-do-evento/pptt.html
+   - [pt] '5TH EDITION'  https://www.medicalinformation.astrazeneca.pt/content/dam/intelligentcontent/medical/med-info/pt/pt/BRISA-R.pd
+   - [pt] '5TH EDITION'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-libra
+   - [pt] '4TH EDITION'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-libra
+   - [pt] '5TH EDITION'  https://www.medicalinformation.astrazeneca.pt/content/dam/intelligentcontent/medical/med-info/pt/pt/Nota-Biogr
+   - [pt] 'XV Congresso Português de Ginecologia'  https://www.medicalinformation.astrazeneca.pt/content/dam/intelligentcontent/medical/med-info/pt/pt/Mapeamento
+
+### C6  n=359  pdf=43% 3p=4% sites={'astrazeneca.com': np.int64(221), 'astrazeneca-us.com': np.int64(84), 'astrazeneca.es': np.int64(36)}
+  tokens: sustainability ethics code our astrazeneca report partnering annual supplier country
+   - [en] 'Subscribe to email alerts'  https://www.astrazeneca-us.com/whatsciencecando.html
+   - [en] 'AstraZeneca Annual Report and Form 20-F Information 2022'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2022/pdf/AstraZeneca_AR_2022_At_A_
+   - [en] 'Our business development teams'  https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html
+   - [th] 'หลักจรรยาบรรณของ AstraZeneca'  https://www.astrazeneca.com/content/dam/az/PDF/Sustainability/Code_of_Ethics_Thai.pdf
+   - [en] 'Data Science & Artificial Intelligence:'  https://www.astrazeneca.com/r-d/data-science-and-ai.html
+   - [en] 'AstraZeneca logo'  https://www.astrazeneca.my/
+
+### C7  n=62  pdf=50% 3p=42% sites={'medicalinformation.astrazeneca.pt': np.int64(52), 'astrazeneca.com': np.int64(7), 'azone.es': np.int64(2)}
+  tokens: product information epar area info med documents medical therapy video
+   - [pt] 'ANEXO I'  https://www.ema.europa.eu/pt/documents/product-information/brilique-epar-product-information_pt.pdf
+   - [pt] 'ANEXO I'  https://www.ema.europa.eu/pt/documents/product-information/calquence-epar-product-information_pt.pdf
+   - [pt] 'ANEXO I'  https://www.ema.europa.eu/pt/documents/product-information/daxas-epar-product-information_pt.pdf
+   - [pt] 'ANEXO I'  https://www.ema.europa.eu/pt/documents/product-information/trixeo-aerosphere-epar-product-information_pt.pdf
+   - [pt] 'Voltar para o conteúdo'  https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml
+   - [pt] 'ANEXO I'  https://www.ema.europa.eu/pt/documents/product-information/faslodex-epar-product-information_pt.pdf
+
+### C8  n=373  pdf=32% 3p=56% sites={'astrazeneca.com': np.int64(96), 'myastrazeneca.be': np.int64(91), 'medicalinformation.astrazeneca-us.com': np.int64(68)}
+  tokens: belux portals cancer hcp images breast doi oncology therapeutic area
+   - [en] 'ABSTRACT BOOK'  https://www.ctf.org/wp-content/uploads/2026/06/2026-NF-Conference-Abstract-Book.pdf
+   - [en] 'Belgian Society'  https://belgian-society-pathology.eu/storage/files/gyn-biomarkers-na-meeting-20-12-2021-bcr12052022.pdf
+   - [en] 'TROP2 ADCs for NSCLC'  https://deceraclinical.com/education/program/oncology/trop2-adcs-for-nsclc/18720
+   - [en] 'Our pipeline'  https://www.astrazeneca.com/our-therapy-areas/pipeline.html
+   - [en] 'SAN ANTONIO'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-pdf-v
+   - [en] 'Clear input Search'  https://www.ncbi.nlm.nih.gov/books/NBK92148/
+
+### C9  n=158  pdf=0% 3p=1% sites={'medicalinformation.astrazeneca.pt': np.int64(136), 'medicalinformation.astrazeneca-us.com': np.int64(22)}
+  tokens: viewer congress library evento recursos orais poster painel palestrantes booths
+   - [en] 'Video Viewer'  https://medicalinformation.astrazeneca-us.com/home/video-viewer.html?videoparam=1_cpvxgoqw&title=Oncology
+   - [en] 'Notificação de acontecimentos adversos ou reclamações de qualidade'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [pt] '< Back to INTERSECT'  https://www.medicalinformation.astrazeneca.pt/congress-library/porthos/porthos-pdfviewer.html
+   - [pt] '< Back to INTERSECT'  https://www.medicalinformation.astrazeneca.pt/congress-library/response/map-ocsur-pdf-viewer.html
+   - [en] 'Marhold M et al'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [pt] '< Back to INTERSECT'  https://www.medicalinformation.astrazeneca.pt/congress-library/response/response-pdfviewer.html
+
+### C10  n=202  pdf=8% 3p=72% sites={'astrazeneca.com': np.int64(73), 'astrazeneca-us.com': np.int64(45), 'medicalinformation.astrazeneca-us.com': np.int64(25)}
+  tokens: login tools share utbildning today contributions widget custom investor relations
+   - [en] 'This website utilizes technologies such as cookies to enable essential'  https://cme.peervoice.com/140201843/140201843_p1?interactionId=hyMe6nyK05WmCj8G5WlEgAnYxkpyCelAJxPG379a3JImzc5
+   - [sv] 'Page approval ID: SE-18996-03-25-ONC'  https://www.astrazenecaconnect.net/sv/sv/utbildning/professor_g_viale_film_master_250122/
+   - [pl] 'Transparencia de las transferencias de valor'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/Reporte-Tov-2025-Q2-Chil
+   - [en] 'We, and our'  https://bit.ly/32QIG7e
+   - [es] 'Oops... algo salió mal...'  https://www.azone.es/500.html
+   - [en] 'Continue with ads…'  https://cp.podiumpodcast.com/first-layer/?start&theme=classic&v=20260714115101-6cbc84be0f&locale=en&planId=48e
+
+### C11  n=213  pdf=19% 3p=71% sites={'medicalinformation.astrazeneca-us.com': np.int64(52), 'azone.es': np.int64(51), 'medicalinformation.astrazeneca.pt': np.int64(21)}
+  tokens: library congress asthma details copd disease trends fulltext article gina
+   - [en] 'International Journal of Chronic Obstructive Pulmonary Disease'  https://www.tandfonline.com/doi/full/10.2147/COPD.S578651
+   - [en] 'Advertisement'  https://www.annallergy.org/article/S1081-1206(25)00727-6/fulltext
+   - [en] '0 results are available, use up and down arrow keys to navigate.'  https://pubmed.ncbi.nlm.nih.gov/27777887/
+   - [en] 'Review article'  https://www.jacionline.org/article/S0091-6749(25)00214-3/fulltext
+   - [en] 'Wiley full text link'  https://pubmed.ncbi.nlm.nih.gov/38485451/
+   - [en] 'Atypon full text link'  https://pubmed.ncbi.nlm.nih.gov/28508083/
+
+### C12  n=177  pdf=0% 3p=1% sites={'medicalinformation.astrazeneca-us.com': np.int64(115), 'medicalinformation.astrazeneca.pt': np.int64(62)}
+  tokens: viewer congress phase durvalumab with and study trial analysis efficacy
+   - [en] 'Durvalumab - Smyth E, et al. Analysis of FLOT administration in MATTER'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] '>Circulating tumor cell expression analysis from the phase 2 trial of '  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Surovatamig (AZD0486), a CD19xCD3 T-cell engager (TCE), demonstrates h'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Durvalumab - Smyth E, et al. Analysis of FLOT administration in MATTER'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Autologous B cell maturation antigen (BCMA) and CD19 dual targeting Fa'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Venetoclax-acalabrutinib for CLL patients relapsing after venetoclax-a'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+
+### C13  n=211  pdf=1% 3p=1% sites={'az-oncology.jp': np.int64(211)}
+  tokens: haigan know useful lecture treatment meetup public about experiences diagnosis
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/useful/yell/yell03.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/know/diagnosis/inspection08.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/know/about/symptoms01.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/useful/support/guide/support04.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/know/about/symptoms03.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/know/treatment/radiotherapy02.html
+
+### C14  n=104  pdf=43% 3p=38% sites={'myastrazeneca.co.uk': np.int64(80), 'astrazeneca-us.com': np.int64(18), 'medicalinformation.astrazeneca.pt': np.int64(3)}
+  tokens: fluenz flu childhood supportive resources dac hcp portals parent leaflet
+   - [en] 'PRESCRIBING INFORMATION'  https://medicines.astrazeneca.co.uk/content/dam/multibrand/uk/en/prescribinginformation/Fluenz_UK.pdf
+   - [zh-cn] '不要错失给孩子接种免'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/fluenz/supportive-resour
+   - [en] 'Influenza (Flu)'  https://www.cdc.gov/flu/vaccines/keyfacts.html
+   - [en] 'Prescribing Information FLUENZ® nasal spray suspension (influenza vacc'  https://www.myastrazeneca.co.uk/fluenz/resources/english-animation.html
+   - [cy] 'PEIDIWCH Â CHOLLI'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/fluenz/supportive-resour
+   - [en] "DON'T MISS OUT"  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/fluenz/supportive-resour
+
+### C15  n=273  pdf=85% 3p=1% sites={'astrazeneca.com': np.int64(265), 'astrazeneca-us.com': np.int64(7), 'azone.es': np.int64(1)}
+  tokens: investor company our relations webcast presentations and results presentation year
+   - [en] '2Q and Half Year Results'  https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/presentations-and
+   - [en] 'Shareholder Information'  https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/presentations-and
+   - [en] "We will now move on to the Q&A session. And I'll ask the operator to c"  https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/presentations-and
+   - [en] 'Use of AstraZeneca conference call, webcast and presentation slides'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/ASCO%202018%20Investor%20Event%20-%20Breakout%20
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/presentations-and
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/presentations-and
+
+### C16  n=325  pdf=50% 3p=35% sites={'myastrazeneca.co.uk': np.int64(158), 'astrazeneca-us.com': np.int64(61), 'astrazeneca.com': np.int64(39)}
+  tokens: lynparza hcp prescribing lokelma portals information rendition cancer viewable appendix
+   - [en] 'Prescribing Information LOKELMA® (sodium zirconium cyclosilicate)'  https://www.myastrazeneca.co.uk/lokelma/videos-and-webinars/practical-experience-using-lokelma.html
+   - [en] 'EPANOVA® (omega-3-carboxylic acids) capsules'  https://drd9vrdh9yh09.cloudfront.net/50fd68b9-106b-4550-b5d0-12b045f8b184/90d9cf11-2e0c-4263-a4cd-acfc157e069e
+   - [en] 'Prescribing Information'  https://medicalinformation.astrazeneca-us.com/home/prescribing-information/nexium-iv.html
+   - [en] 'Cost & Affordability'  https://www.farxiga.com/
+   - [en] 'Truqap ▼'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/truqap/TRUQAP-BREAST-dos
+   - [en] 'Prescribing Information Tezspire®'  https://www.myastrazeneca.co.uk/tezspire/efficacy-and-clinical-trials/quality-of-life.html
+
+### C17  n=47  pdf=0% 3p=0% sites={'azone.es': np.int64(45), 'astrazeneca.es': np.int64(2)}
+  tokens: login multibrand one eventos inicio servicios cursos oncologia cientificos articulos
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=/content/intelligentcontent/multibrand/es/az-one/cursos/cursos-onco
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=/content/intelligentcontent/multibrand/es/az-one/eventos/eventos-cv
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=/content/intelligentcontent/multibrand/es/az-one/patologias/gripe-p
+   - [es] 'Términos y Condiciones'  https://www.azone.es/login.html?requesturl=/content/intelligentcontent/multibrand/es/az-one/patologias/sindrom
+
+### C18  n=220  pdf=0% 3p=0% sites={'azone.es': np.int64(220)}
+  tokens: inicio login multibrand one servicios cientificos articulos eventos patologias cursos
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=/content/intelligentcontent/multibrand/es/az-one/patologias/asma/co
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+   - [es] 'La información que figura en esta web está dirigida exclusivamente al '  https://www.azone.es/login.html?requesturl=%2Fcontent%2Fintelligentcontent%2Fmultibrand%2Fes%2Faz-one%2Finicio
+
+### C19  n=104  pdf=90% 3p=80% sites={'medicalinformation.astrazeneca-us.com': np.int64(59), 'medicalinformation.astrazeneca.pt': np.int64(43), 'astrazenecaconnect.net': np.int64(2)}
+  tokens: source json jcr getdownloadlink info congress viewer med medical fulltext
+   - [en] 'Efficacy of tezepelumab in North American and European patients with C'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/21146178-005d-4a8c-882c-2547d53abecf
+   - [en] 'A4664-A4680'  https://journal.chestnet.org/article/S0012-3692(24)03623-7/fulltext
+   - [en] 'AB41'  https://www.jacionline.org/article/S0091-6749(25)01309-0/fulltext
+   - [en] 'A4651-A4653'  https://journal.chestnet.org/article/S0012-3692(24)03619-5/fulltext
+   - [en] 'Poster number: P656'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-pdf-v
+   - [en] 'A first-in-class mechanistic study assessing tissue-level eosinophil d'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/0083878f-9b2b-43b4-ae99-e45c19ada2a7
+
+### C20  n=152  pdf=0% 3p=2% sites={'az-oncology.jp': np.int64(152)}
+  tokens: fujinkagan ransogan recipe live care treat tips about lifestyle article
+   - [ja] '婦人科がん.jp'  https://www.az-oncology.jp/fujinkagan/shikyukeigan/care/aftercare.html
+   - [ja] "前立腺がんを知る、みんなで乗り越える What's? 前立腺がん"  https://www.az-oncology.jp/zenritsusengan/digest/diagnose/
+   - [ja] '婦人科がん.jp'  https://www.az-oncology.jp/fujinkagan/tips/article/cost.html
+   - [ja] "前立腺がんを知る、みんなで乗り越える What's? 前立腺がん"  https://www.az-oncology.jp/zenritsusengan/about/epidemiology/
+   - [ja] '婦人科がん.jp'  https://www.az-oncology.jp/fujinkagan/shikyukeigan/qanda/treatment.html
+   - [ja] "前立腺がんを知る、みんなで乗り越える What's? 前立腺がん"  https://www.az-oncology.jp/zenritsusengan/treat/genetic/
+
+### C21  n=102  pdf=100% 3p=0% sites={'astrazeneca.com': np.int64(102)}
+  tokens: investor presentation relations debt events results investors year announcement update
+   - [en] 'H1 and Q2 2025 Results'  https://www.astrazeneca.com/content/dam/az/PDF/2025/h1q2/H1-and-Q2-2025-results-presentation.pdf
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/PDF/2018/h1-2018/H1%202018%20Results%20announcement.pdf
+   - [en] 'FY and Q4 2025 Results'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/debt-investors/pdf/Debt-investor-update-10-Febru
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/events/AstraZeneca-SABCS-2022-IR-Presentation-08
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/PDF/2018/Q3/Year-To-Date_and_Q3_2018_Results_announcement.pdf
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/events/AZN%20Investor%20science%20conference%20c
+
+### C22  n=54  pdf=100% 3p=0% sites={'astrazeneca.com': np.int64(54)}
+  tokens: methodology note transparency sustainability english efpia alexion norway finland italy
+   - [en] 'ALEXION®'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Switzerland-Alexion
+   - [hr] 'Metodološka napomena za'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Serbia-EFPIA-Method
+   - [en] 'ALEXION®'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Norway-Alexion-Meth
+   - [nl] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Netherlands-Methodo
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Finland-Methodology
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Belgium-Methodology
+
+### C23  n=113  pdf=6% 3p=1% sites={'astrazenecaconnect.net': np.int64(113)}
+  tokens: terapiomraden andningsvagar kol vad onkologi sager astma och svar okontrollerad
+   - [sv] 'KOL-RAPPORTEN 2023'  https://www.astrazenecaconnect.net/siteassets/sverige/tas/andningsvagar/kol/dokument/kolrapport_231130.pdf/
+   - [sv] 'Oncology Academy - Lungcancer'  https://www.astrazenecaconnect.net/sv/sv/terapiomraden/onkologi/lung-cancer-academy/
+   - [sv] 'Verkningsmekanism för Tezspire (tezepelumab):'  https://www.astrazenecaconnect.net/sv/sv/terapiomraden/andningsvagar/svar-okontrollerad-astma/tezspire/verknin
+   - [sv] 'Andas ut - en podd om lunghälsa'  https://www.astrazenecaconnect.net/sv/sv/terapiomraden/andningsvagar/kol/podden-for-lungintresserade/
+   - [en] 'NYTTIG INFORMATION OCH HJÄLP:'  https://www.astrazenecaconnect.net/siteassets/sverige/tas/andningsvagar/ny-kol-2025/dokument/sluta-roka-folder
+   - [en] 'Diagnostik och målriktad behandling vid HR+ mBC'  https://www.astrazenecaconnect.net/sv/sv/utbildning/diagnostik-och-malriktad-behandling-vid-hr-mbc/
+
+### C24  n=290  pdf=23% 3p=69% sites={'astrazeneca.es': np.int64(172), 'azone.es': np.int64(102), 'astrazeneca.com': np.int64(15)}
+  tokens: cancer tipos multibrand cursos one eventos patologias articulo tratamiento del
+   - [es] 'Guía de Práctica Clínica'  https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_549_Lupus_SESCS_compl.pdf
+   - [es] 'ESCAPE'  https://public.boxcloud.com/d/1/b1!Ys4of9Z9g4fpq-9_CjqcGtDHB-AspLdOLKEfUDIZnrgwvwlvX24Tjo9aL_HmyWy4TvniaLncltw
+   - [es] 'Facebook'  https://afectadoscancerdepulmon.com/biomarcadores/
+   - [es] 'Evento - Icono De Calendario Blanco Cardiovascular, Renal y Metabolism'  https://www.azone.es/eventos/eventos-cvrm.html
+   - [es] 'International Expert Consensus Recommendations for HER2'  https://www.azone.es/content/dam/intelligentcontent/multibrand/es/az-one/pdf/International%20Expert%20Consensu
+   - [es] 'Separvision'  https://www.separcontenidos.es/separvision/2023/10/02/la-deteccion-precoz-del-cancer-de-pulmon-protagoniza-el-
+
+### C25  n=205  pdf=25% 3p=16% sites={'myastrazeneca.be': np.int64(201), 'astrazeneca.com': np.int64(3), 'astrazeneca.es': np.int64(1)}
+  tokens: therapeutical belux oncologie medicines areas information product portals documents hcp
+   - [fr] 'ANNEXE I'  https://www.ema.europa.eu/fr/documents/product-information/xigduo-epar-product-information_fr.pdf
+   - [fr] 'Si vous souhaitez vous inscrire pour suivre nos actualités, veuillez r'  https://m.email.astrazeneca.com/webApp/aznBeOptFormSite?lang=fr
+   - [fr] 'Domaines thérapeutiques'  https://www.myastrazeneca.be/fr/therapeutical-areas/cvrm/type2diabetes.html
+   - [fr] 'Bienvenue sur myastrazeneca.be'  https://www.myastrazeneca.be/fr/medicines/wainzua.html
+   - [fr] 'Prix ex-usine TVA excl. Remboursé'  https://www.myastrazeneca.be/content/dam/intelligentcontent/portals/hcp/belux/fr/images/belux-v1/products/imfi
+   - [fr] 'Bienvenue sur myastrazeneca.be'  https://www.myastrazeneca.be/fr/therapeutical-areas/oncologie/formationinfirmierecalquence.html
+
+### C26  n=70  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(46), 'medicalinformation.astrazeneca.pt': np.int64(24)}
+  tokens: viewer congress and hypertension controlled the inadequately patients with among
+   - [en] 'Characteristics and healthcare resource utilization of adults hospital'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Viral pathogens among hospitalized adults enrolled in the acute respir'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Cardiorenal outcomes and all-cause mortality in patients'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Kidney outcomes and mortality in patients with comorbid chronic kidney'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Risk of hepatitis B virus reactivation (HBVr) in patients (pts) with p'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Epidemiology and clinical burden of disease among uncontrolled and tre'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+
+### C27  n=166  pdf=13% 3p=90% sites={'astrazeneca-us.com': np.int64(47), 'myastrazeneca.co.uk': np.int64(44), 'astrazeneca.com': np.int64(42)}
+  tokens: cancer statistics types about prostate breast staging lung facts fact
+   - [en] '>bot? 9'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/Imfinzi/resource-hub/Fit
+   - [en] 'Health professional'  https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/uterine-cance
+   - [en] 'Language:'  https://worldovariancancercoalition.org/ovarian-cancer/
+   - [en] 'NHGRI Logo'  https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost
+   - [en] 'Health professional'  https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/liver-cancer/
+   - [en] 'National Cancer Institute Home Page'  https://www.cancer.gov/about-cancer/treatment/research/car-t-cells
+
+### C28  n=143  pdf=0% 3p=0% sites={'az-oncology.jp': np.int64(143)}
+  tokens: meetup haigan detail why widget will winter with within without
+   - [ja] 'がんで良かった。'  https://www.az-oncology.jp/haigan/meetup/detail_085.html
+   - [ja] 'まだまだこれからも大変ですが、家族で乗り切りたいと思います'  https://www.az-oncology.jp/haigan/meetup/detail_221.html
+   - [ja] 'みなさんの投稿を見て、少し気持ちが楽になりました'  https://www.az-oncology.jp/haigan/meetup/detail_039.html
+   - [ja] '目の前の治療を淡々とこなしている感じです'  https://www.az-oncology.jp/haigan/meetup/detail_104.html
+   - [ja] 'つらい思いをしているのは自分だけではない'  https://www.az-oncology.jp/haigan/meetup/detail_051.html
+   - [ja] '家族にできることは寄り添い笑うこと'  https://www.az-oncology.jp/haigan/meetup/detail_016.html
+
+### C29  n=294  pdf=51% 3p=66% sites={'medicalinformation.astrazeneca-us.com': np.int64(97), 'medicalinformation.astrazeneca.pt': np.int64(86), 'astrazeneca.com': np.int64(28)}
+  tokens: source congress library info jcr json getdownloadlink med medical viewer
+   - [en] 'Cardiorenal pathways and characteristics of patients with coexisting'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/e6f369c7-7e99-4749-98a4-5009c3871420
+   - [en] 'Dapagliflozin for HFrEF: early experience of treatment adherence and i'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/a024ad5a-3065-440c-bc5d-23e0e8bef2d5
+   - [en] 'P.33.07'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/1725eb95-378a-477d-bf3b-de3451ec800d
+   - [en] 'Effect of time since heart failure diagnosis or hospitalization on the'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-pdf-v
+   - [en] 'COPD Transition of Care Discharge Checklist'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/65febf9e-d01f-4df2-bf82-92701d3bc951
+   - [en] '62nd ERA'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/29a4f8ce-e350-4389-b082-eb272cf38527
+
+### C30  n=208  pdf=94% 3p=2% sites={'astrazeneca.com': np.int64(198), 'astrazeneca-us.com': np.int64(6), 'medicalinformation.astrazeneca-us.com': np.int64(2)}
+  tokens: investor relations annual report astrazeneca investors debt sustainability statement governance
+   - [en] 'Aide memoire'  https://www.astrazeneca.com/content/dam/az/PDF/2026/AZN-PreQ2-Aide-memoire-2026.pdf
+   - [en] 'Contact information'  https://www.astrazeneca.com/content/dam/az/our-company/investor-relations/investor-information/2012/Notice-of-
+   - [en] 'News Release'  https://www.astrazeneca.com/content/dam/az/PDF/2025/Result-of-General-Meeting-held-on-3-November-2025.pdf
+   - [en] 'AstraZeneca'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/SPECIALTY-PRODUCTS-SPOILAGE-RETURN-REQUEST/AZ-Speci
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Partnering/esr/VCV-for-ESR-external-log-in-process-before-provision
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/our-company/investor-relations/investor-information/2011/Notice-of-
+
+### C31  n=113  pdf=2% 3p=0% sites={'az-oncology.jp': np.int64(113)}
+  tokens: read tandogan direction diagnosis uservoice drug tace life about treatment
+   - [ja] '総合監修：'  https://www.az-oncology.jp/kanzogan/direction/read/q.html
+   - [ja] '総合監修：'  https://www.az-oncology.jp/kanzogan/hepatic/
+   - [ja] 'AstraZeneca'  https://www.az-oncology.jp/boukougan/sdm_practice.html
+   - [ja] 'AstraZeneca'  https://www.az-oncology.jp/boukougan/life_faq.html
+   - [ja] '総合監修：'  https://www.az-oncology.jp/kanzogan/direction/read/pag.html
+   - [ja] '総合監修：'  https://www.az-oncology.jp/kanzogan/drug/read/nemu01.html
+
+### C32  n=66  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(49), 'medicalinformation.astrazeneca.pt': np.int64(17)}
+  tokens: deruxtecan trastuzumab viewer dxd congress her2 destiny with patients line
+   - [en] 'Trastuzumab Deruxtecan   Pembrolizumab as First-line Treatment in HER2'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Trastuzumab deruxtecan (T-DXd) versus trastuzumab emtansine (T-DM1) in'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Outcomes by hormone receptor (HR) status in patients (pts) with HER2  '  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Trastuzumab deruxtecan induces immunogenic cell death'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [pt] 'Randomized, open-label, multicenter, Phase 3 study of trastuzumab deru'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'First-line (1L) datopotamab deruxtecan (Dato-DXd) vs chemotherapy in p'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+
+### C33  n=88  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(58), 'medicalinformation.astrazeneca.pt': np.int64(30)}
+  tokens: viewer congress albuterol asthma with fumarate formoterol and exacerbation patients
+   - [en] 'An indirect comparison of Budesonide/glycopyrrolate/formoterol fumarat'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Baseline characteristics and follow-up exacerbation rates in patients '  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Baseline characteristics of patients with asthma initiating albuterol-'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Spironolactone in the treatment of uncontrolled and treatment-resistan'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Minimal residual disease with bendamustine-rituximab with or without a'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Use of as-needed albuterol-budesonide versus albuterol before and afte'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+
+### C34  n=114  pdf=98% 3p=2% sites={'astrazeneca.com': np.int64(114)}
+  tokens: efpia disclosure summary transparency sustainability report alexion english sweden colombia
+   - [lv] 'PO nosaukums'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/2023_Latvia_EFPIA_Patien
+   - [en] 'Country Code'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2024-Czech-Republic-EFPI
+   - [en] 'Country Code'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Sweden-Alexion-EFPI
+   - [hr] 'Oznaka zemlje'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2024-Croatia-EFPIA-Discl
+   - [hu] 'Országkód'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/2023-Hungary-EFPIA-Discl
+   - [it] 'Prefisso internazionale'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Italy-Alexion-EFPIA
+
+### C35  n=153  pdf=35% 3p=60% sites={'medicalinformation.astrazeneca-us.com': np.int64(78), 'medicalinformation.astrazeneca.pt': np.int64(24), 'myastrazeneca.co.uk': np.int64(20)}
+  tokens: wainzua source article doi see pattrns attr info cvrm congress
+   - [en] 'JACC This Week'  https://html5-player.libsyn.com/embed/episode/id/10029095/height/90/theme/custom/thumbnail/no/direction/backwa
+   - [en] 'WAINZUAⓇ'  https://medicines.astrazeneca.co.uk/content/dam/multibrand/uk/en/prescribinginformation/Wainzua_UK_PI.pdf
+   - [en] 'Amyloid'  https://www.tandfonline.com/doi/full/10.1080/13506129.2022.2043270
+   - [en] 'Health Care Resource Use Prior to Diagnosis in Patients With'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/9897dc1a-3926-4884-a43d-1052f5e3db3d
+   - [en] 'Heart Failure Reviews'  https://link.springer.com/article/10.1007/s10741-021-10080-2
+   - [en] 'Patients'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/a6142feb-7f8b-4321-b83b-479f70942e9d
+
+### C36  n=216  pdf=26% 3p=20% sites={'myastrazeneca.be': np.int64(211), 'astrazeneca.com': np.int64(4), 'astrazeneca.es': np.int64(1)}
+  tokens: therapeutical belux oncologie areas medicines portals information images product hcp
+   - [da] 'Af-fabrieksprijs excl. BTW'  https://www.myastrazeneca.be/content/dam/intelligentcontent/portals/hcp/belux/nl/images/belux-v1/products/imfi
+   - [nl] 'Ziektedomeinen'  https://www.myastrazeneca.be/nl/therapeutical-areas/cvrm.html
+   - [en] 'Medicijnen'  https://www.myastrazeneca.be/nl/medicines/lynparza/breast-cancer/sales-sheet-1.html
+   - [nl] 'Welkom op'  https://www.myastrazeneca.be/nl/therapeutical-areas/oncologie/highriskcllfeatures.html
+   - [nl] 'Welkom op'  https://www.myastrazeneca.be/nl/lung-cancer/patient-brochure.html
+   - [nl] 'BIJLAGE I'  https://www.ema.europa.eu/nl/documents/product-information/synagis-epar-product-information_nl.pdf
+
+### C37  n=122  pdf=41% 3p=30% sites={'myastrazeneca.co.uk': np.int64(89), 'astrazenecaconnect.net': np.int64(11), 'myastrazeneca.be': np.int64(9)}
+  tokens: symbicort trixeo resources patient educational product emc and copd portals
+   - [en] 'Prescribing information Symbicort'  https://www.myastrazeneca.co.uk/symbicort/educational-and-patient-resources/what-is-srt.html
+   - [en] 'This leaflet is only for patients prescribed Trixeo Aerosphere (formot'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/trixeo/resources/TRIXEO-
+   - [en] 'After using your SYMBICORT inhaler'  https://drd9vrdh9yh09.cloudfront.net/50fd68b9-106b-4550-b5d0-12b045f8b184/a4b62ab8-1314-4583-91b4-294ec239f790
+   - [en] 'Prescribing information Symbicort'  https://www.myastrazeneca.co.uk/symbicort/educational-and-patient-resources/will-the-patient-use-too-much-ster
+   - [en] 'US-103215'  https://drd9vrdh9yh09.cloudfront.net/50fd68b9-106b-4550-b5d0-12b045f8b184/fe598cda-d255-4446-998e-617607f61552
+   - [en] 'Prescribing information Symbicort'  https://www.myastrazeneca.co.uk/symbicort/dosing-and-side-effects.html
+
+### C38  n=295  pdf=13% 3p=65% sites={'astrazeneca.com': np.int64(179), 'astrazeneca-us.com': np.int64(39), 'astrazeneca.es': np.int64(35)}
+  tokens: sustainability health articles news science can climate our report equity
+   - [en] 'Lancet Countdown en'  https://lancetcountdown.org/2025-report/
+   - [en] 'Trending story'  http://www.astrazeneca.com/
+   - [en] 'Product counterfeiting'  https://www.astrazeneca-us.com/medicines/product-counterfeiting.html
+   - [en] 'Nature Genetics'  https://www.nature.com/articles/s41588-024-01898-1
+   - [en] 'Global Initiative for Asthma – GINA HOME'  https://ginasthma.org/
+   - [en] 'Respiratory & Immunology'  https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html
+
+### C39  n=214  pdf=18% 3p=38% sites={'astrazeneca.es': np.int64(123), 'azone.es': np.int64(91)}
+  tokens: cancer oncologia prensa sobre notas eventos medios servicios mama pulmon
+   - [es] 'Cáncer de Pulmón'  https://www.azone.es/patologias/cancer-de-pulmon/contenidos/informe-seom.html
+   - [es] 'Las cifras del'  https://seom.org/images/LAS_CIFRAS_DEL_CANCER_EN_ESPANA_2022.pdf
+   - [es] 'Las cifras del'  https://seom.org/images/LAS_CIFRAS_DEL_CANCER_EN_ESPANA_2022.pdf?msclkid=73918f43ae8811ec9a7f45133f3b4af5
+   - [es] 'Artículos Científicos'  https://www.azone.es/servicios/articulos-cientificos/influencia-criterios-respuesta-molecular-recogida-ctdna.h
+   - [es] 'Artículos Científicos'  https://www.azone.es/servicios/articulos-cientificos/guia-practica-clinica-esmo.html
+   - [es] 'Cáncer de vejiga'  https://seom.org/info-sobre-el-cancer/vejiga
+
+### C40  n=297  pdf=7% 3p=12% sites={'azone.es': np.int64(241), 'astrazeneca.es': np.int64(56)}
+  tokens: patologias contenidos cientificos servicios articulos asma gripe actualidad epicentral con
+   - [es] 'Canvas Logo'  https://www.redgdps.org/prevencion-diagnostico-y-manejo-de-la-enfermedad-renal-cronica-en-atencion-primaria-20
+   - [es] 'Cardiovascular, Renal y Metabolismo'  https://www.azone.es/cursos/cursos-cvrm/descubriendo-attr.html
+   - [es] 'Expertos estiman que habrá entre 4.000 y 6.000 hospitalizaciones por g'  https://www.astrazeneca.es/medios/notas-prensa/2024/Expertos_estiman_que_habra_entre_4000_y_6000_hospitalizaci
+   - [es] 'Actualidad · Artículo · Asma grave'  https://www.azone.es/actualidad/por-que-el-asma-grave-es-importante.html
+   - [es] 'Artículos Científicos'  https://www.azone.es/servicios/articulos-cientificos/norma-tecnica-de-la-ERS.html
+   - [es] 'Hiperkalemia'  https://www.azone.es/patologias/hiperpotasemia/contenidos/hiperkalemia-tratamiento-arm.html
+
+### C41  n=468  pdf=1% 3p=92% sites={'astrazeneca-us.com': np.int64(160), 'astrazeneca.com': np.int64(153), 'medicalinformation.astrazeneca-us.com': np.int64(73)}
+  tokens: what science can and cancer health topics prostate education disease
+   - [en] 'Contact Us'  https://nam.edu/product/why-decarbonizing-matters-for-the-u-s-health-sector/
+   - [en] 'Featured story'  https://www.astrazeneca.com/what-science-can-do.html
+   - [en] 'Utility Navigation'  https://www.hchmd.org/
+   - [en] 'TNF-Logo-horizontal white.png'  https://www.texasnf.org/
+   - [en] 'Create alert'  https://pubmed.ncbi.nlm.nih.gov/?term=Hornigold%20DC%5BAuthor%5D&cauthor=true&cauthor_uid=27377054
+   - [en] 'ERS2025 Photos'  https://ers-isian2025.com/
+
+### C42  n=229  pdf=22% 3p=11% sites={'astrazeneca.es': np.int64(146), 'azone.es': np.int64(74), 'astrazeneca.com': np.int64(9)}
+  tokens: medios prensa notas para astrazeneca eventos las salud del servicios
+   - [es] 'Campushorizon.es Tu portal en España para formación y empleo ✔️'  https://campushorizon.es/
+   - [es] 'Congresos'  https://www.azone.es/servicios/congresos/simposio-seedo.html
+   - [es] 'AstraZeneca'  https://public.boxcloud.com/d/1/b1!Ti8ERG5WOhvUlEPe9tBCm3Imy6VCHx2DH8LfdQiYwHaWUxG63yUiTpbqE5RJDytzhnzz8t527-D
+   - [es] 'OCTUBRE 2025'  https://www.azone.es/content/dam/intelligentcontent/multibrand/es/az-one/pdf/251023_Lideres%20en%20Nefrologia%
+   - [es] 'El valor estratégico de la'  https://www.astrazeneca.es/content/dam/AstraZeneca%20Spain/El-valor-estrat%C3%A9gico-de-la-inmunizaci%C3%B3n-e
+   - [es] 'La Embajada de Suecia y AstraZeneca celebran la primera ‘Cumbre de Pre'  https://www.astrazeneca.es/medios/notas-prensa/2024/La_Embajada_de_Suecia_y_AstraZeneca_celebran_la_primera_Cu
+
+### C43  n=91  pdf=33% 3p=5% sites={'myastrazeneca.co.uk': np.int64(78), 'myastrazeneca.be': np.int64(8), 'astrazeneca-us.com': np.int64(2)}
+  tokens: imfinzi gastrointestinal cancer resources portals hcp belux lung dosing resource
+   - [en] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/PDF/2018/h1-2018/H1%202018%20Clinical%20Trials%20appendix.pdf
+   - [en] 'IMFINZI (durvalumab) UK Prescribing Information'  https://www.myastrazeneca.co.uk/imfinzi/bladder-cancer.html
+   - [en] 'This promotional asset has been funded and created by AstraZeneca for '  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/Imfinzi/bladder-cancer/N
+   - [en] 'Prescribing information UK'  https://www.myastrazeneca.co.uk/oncology/lung-cancer/resources.html
+   - [en] 'SIMFINZI® CIMJUDOV'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/Imfinzi/resource-hub/HIM
+   - [en] 'IMFINZI (durvalumab) UK Prescribing Information'  https://www.myastrazeneca.co.uk/imfinzi/gastrointestinal-cancer/himalaya-trial-hcc.html
+
+### C44  n=188  pdf=28% 3p=38% sites={'astrazenecaconnect.net': np.int64(186), 'astrazeneca.com': np.int64(1), 'astrazeneca.es': np.int64(1)}
+  tokens: terapiomraden luftveier product astma information diabetes norge epar onkologi astrazeneca
+   - [no] 'Alvorlig astma'  https://www.astrazenecaconnect.net/no/no/terapiomraden/luftveier/alvorlig-astma/alvorlig-astma-heterogen-og-ko
+   - [no] '(Lesetid 1-2 min)'  https://www.astrazenecaconnect.net/no/no/terapiomraden/hjerte-nyre-diabetes/diabetes-type-2/diabetes-type-2---
+   - [no] 'UTREDNING, BEHANDLING OG OPPFØLGING'  https://www.astrazenecaconnect.net/siteassets/norge/ta/cvrm/4-heart-failure/utredning-av-hjertesvikt/2024-08-v
+   - [no] 'Calquence'  https://www.felleskatalogen.no/medisin/bevespi-aerosphere-astrazeneca-657704
+   - [no] 'Hjem'  https://www.felleskatalogen.no/medisin/tezspire-astrazeneca-727019?markering=0
+   - [no] 'VEDLEGG I'  https://www.ema.europa.eu/no/documents/product-information/lynparza-epar-product-information_no.pdf
+
+### C45  n=271  pdf=13% 3p=11% sites={'myastrazeneca.co.uk': np.int64(94), 'astrazeneca.com': np.int64(74), 'astrazeneca-us.com': np.int64(33)}
+  tokens: login portals hcp cancer imfinzi and our lung company amp
+   - [en] 'Media centre'  https://www.astrazeneca.com/media-centre/archive.html
+   - [en] 'SVG Content'  https://www.astrazenecaclinicaltrials.com/
+   - [en] 'Adverse event reporting information found at the bottom of the page.'  https://www.myastrazeneca.co.uk/login.html?requesturl=/content/intelligentcontent/portals/hcp/gb/en/home/imfin
+   - [en] 'Educational items'  https://www.astrazeneca-us.com/contact-us/educational-items.html
+   - [en] 'Adverse event reporting information found at the bottom of the page.'  https://www.myastrazeneca.co.uk/login.html?requesturl=/content/intelligentcontent/portals/hcp/gb/en/home/zolad
+   - [en] 'Developed and fully funded by AstraZeneca. This guide is for people'  https://www.myastrazeneca.co.uk/content/dam/intelligentcontent/portals/hcp/gb/en/pdfs/forxiga/Patient_Educatio
+
+### C46  n=66  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(34), 'medicalinformation.astrazeneca.pt': np.int64(32)}
+  tokens: pptviewer congress savannah circulating longitudinal tumor dna why widget will
+   - [pt] 'Download PPT'  https://www.medicalinformation.astrazeneca.pt/congress-pptviewer.html?ppturl=https://dyoqhgq8g9vgo.cloudfront.
+   - [en] 'Congress PPT Viewer'  https://medicalinformation.astrazeneca-us.com/home/congress-pptviewer.html?ppturl=https://dyoqhgq8g9vgo.cloudf
+   - [en] 'Congress PPT Viewer'  https://medicalinformation.astrazeneca-us.com/home/congress-pptviewer.html?ppturl=https://dyoqhgq8g9vgo.cloudf
+   - [pt] 'Longitudinal circulating tumor DNA'  https://www.medicalinformation.astrazeneca.pt/congress-pptviewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfront
+   - [pt] 'Download PPT'  https://www.medicalinformation.astrazeneca.pt/congress-pptviewer.html?ppturl=https://dkiatyam0i33z.cloudfront.
+   - [en] 'Congress PPT Viewer'  https://medicalinformation.astrazeneca-us.com/home/congress-pptviewer.html?ppturl=https://dyoqhgq8g9vgo.cloudf
+
+### C47  n=223  pdf=87% 3p=74% sites={'medicalinformation.astrazeneca-us.com': np.int64(112), 'medicalinformation.astrazeneca.pt': np.int64(86), 'astrazeneca-us.com': np.int64(11)}
+  tokens: source getdownloadlink jcr json info viewer med medical congress press
+   - [en] 'Reduced COPD exacerbation risk with prompt initiation of budesonide/gl'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/5ae888e0-eb8b-408a-aaca-965ce4950030
+   - [en] 'Lessons from bench to bedside: Exploring genomic and non-genomic mecha'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/5675bb8e-d87e-4909-aecd-1813511fbe63
+   - [en] 'As-needed albuterol-budesonide decreases risk of severe asthma exacerb'  https://www.medicalinformation.astrazeneca.pt/content/intelligentcontent/medical/med-info/pt/pt/congress-pdf-v
+   - [en] 'A4654-A4659'  https://journal.chestnet.org/article/S0012-3692(24)03620-1/fulltext
+   - [en] 'Disease states in patients with eosinophilic granulomatosis with polya'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/1c99d966-7568-453d-a481-08607c12269b
+   - [en] 'Pharmacodynamic effects of benralizumab on eosinophil-related biomarke'  https://dyoqhgq8g9vgo.cloudfront.net/4d4d150a-bf20-4c76-945a-ce2a670c3c99/d8222811-9e5b-4dd9-8894-c2ee953198e0
+
+### C48  n=96  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(76), 'medicalinformation.astrazeneca.pt': np.int64(20)}
+  tokens: tezepelumab viewer congress with severe asthma patients benralizumab efficacy eosinophilic
+   - [en] 'Improvements in hypereosinophilic syndrome (HES) symptoms and impacts '  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Effect of tezepelumab on lung function in patients with moderate to ve'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Inhibitory effects of tezepelumab on proinflammatory mediators in nasa'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'On-treatment clinical remission with tezepelumab in OCS-dependent pati'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Effect of tezepelumab on lung function in patients with moderate to ve'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Two-year efficacy and safety of benralizumab in the treatment of eosin'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+
+### C49  n=148  pdf=19% 3p=63% sites={'az-oncology.jp': np.int64(139), 'astrazeneca.com': np.int64(8), 'astrazeneca-us.com': np.int64(1)}
+  tokens: check faq guide assets contact supplier public service appearance s2c
+   - [ja] '静岡がんセンター 音声読上げ'  https://www.scchr.jp/cancerqa/jyogen_3500187.html
+   - [ja] 'サフネロー皮下注120mgオートインジェクター、全身性エリテマトーデス（SLE）に対して、日本で承認を取得'  https://www.astrazeneca.co.jp/news/press-releases1/2026/202602192.html
+   - [ja] '障害年金ガイド'  https://www.nenkin.go.jp/service/pamphlet/kyufu.files/LK03-2.pdf
+   - [ja] 'その他のバナー一覧'  https://www.nta.go.jp/
+   - [ja] '勤務情報を主治医に提供する際の様式例'  https://www.mhlw.go.jp/content/11200000/001661996.pdf
+   - [ja] '静岡がんセンター 音声読上げ'  https://www.scchr.jp/book/houkokusho/2013taikenkoe.html
+
+### C50  n=68  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(35), 'medicalinformation.astrazeneca.pt': np.int64(33)}
+  tokens: viewer congress patterns patients with characteristics and treatment baxhtn baseline
+   - [en] 'External Validation of EchoNet-LVH'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Cardiorenal pathways and characteristics of patients'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Disease states in patients with eosinophilic granulomatosis with polya'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Early Symptoms and Medical History of Patients'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Clinical outcomes of patients with idiopathic or lymphocytic hypereosi'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Early clinical manifestations and time-to-diagnosis'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+
+### C51  n=93  pdf=100% 3p=0% sites={'astrazeneca.com': np.int64(93)}
+  tokens: terms conditions and cons pipeline docs purchase general investors debt
+   - [en] 'PROHIBITION OF SALES TO EEA RETAIL INVESTORS - The Notes are not inten'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/debt-investors/pdf/Final-Terms-2027-Conformed-Co
+   - [en] 'AstraZeneca General Conditions of Contract - Bulgaria'  https://www.astrazeneca.com/content/dam/az/pipeline-terms-cons-404-docs/Terms-and-conditions/TCs-of-Purchase-B
+   - [en] 'AstraZeneca General Conditions of Contract - Slovenia'  https://www.astrazeneca.com/content/dam/az/pipeline-terms-cons-404-docs/Terms-and-conditions/TCs-of-Purchase-S
+   - [en] '16.14 Entire Agreement. This purchase order, together with the Definit'  https://www.astrazeneca.com/content/dam/az/pipeline-terms-cons-404-docs/Terms-and-conditions/General-Terms-and
+   - [en] 'the entire agreement between Supplier and Buyer concerning the subject'  https://www.astrazeneca.com/content/dam/az/pipeline-terms-cons-404-docs/Terms-and-conditions/General-Terms-and
+   - [en] 'AstraZeneca General Conditions of Contract - Romania'  https://www.astrazeneca.com/content/dam/az/pipeline-terms-cons-404-docs/Terms-and-conditions/TCs-of-Purchase-R
+
+### C52  n=132  pdf=1% 3p=0% sites={'az-oncology.jp': np.int64(132)}
+  tokens: meetup haigan detail yell useful kenshin assets poster widget will
+   - [ja] '手術後数カ月ですが順調で、元の状態に戻りつつあります'  https://www.az-oncology.jp/haigan/meetup/detail_210.html
+   - [ja] 'いずれ走れるようになれると信じて、毎日を過ごしています'  https://www.az-oncology.jp/haigan/meetup/detail_155.html
+   - [ja] '生きていることに価値がある'  https://www.az-oncology.jp/haigan/meetup/detail_050.html
+   - [ja] '肺がんを知る'  https://www.az-oncology.jp/haigan/meetup/detail_004.html
+   - [ja] '些細な症状でも報告するとよいと思います'  https://www.az-oncology.jp/haigan/meetup/detail_059.html
+   - [ja] '副作用をコントロールしながら、仕事をがんばっています'  https://www.az-oncology.jp/haigan/meetup/detail_205.html
+
+### C53  n=112  pdf=99% 3p=4% sites={'astrazeneca.com': np.int64(112)}
+  tokens: methodology note transparency sustainability english alexion efpia sweden norway finland
+   - [en] 'Reporting of Transfers of Value to HCPs, HCOs and POs'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2024-Greece-EFPIA-Method
+   - [en] 'TRANSFER OF VALUE DISCLOSURE AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2025-Luxembourg-EFPIA-Di
+   - [en] 'Reporting of Transfers of Value to HCPs, HCOs and POs'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/2023-Croatia-Methodology
+   - [sl] 'Poročanje o prenosih sredstev na zdravstvene delavce, zdravstvene'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/2023-Slovenia-Methodolog
+   - [es] 'ALEXION'  https://www.astrazeneca.com/content/dam/az/Sustainability/2025/az-global-transparency/2024-Spain-Alexion-Metho
+   - [bg] 'Превод от английски език'  https://www.astrazeneca.com/content/dam/az/Sustainability/2024/az-global-transparency/2023-Bulgaria-Methodolog
+
+### C54  n=81  pdf=49% 3p=2% sites={'astrazeneca.com': np.int64(43), 'astrazenecaconnect.net': np.int64(35), 'astrazeneca.es': np.int64(2)}
+  tokens: annual swedish investor relations report homepage reports oss dokument nom
+   - [sv] 'Ordlista'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-reports-homepage/2004-Annual-Report-Swedi
+   - [sv] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/PDF/2022/AZ_NoM_Sve_220321.pdf
+   - [da] 'Hold dig opdateret'  https://www.astrazenecaconnect.net/da/dk/om-os/
+   - [sv] 'AstraZeneca'  https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-reports-homepage/2013-Annual-Report-Swedi
+   - [da] 'Velkommen til AstraZeneca Medical'  https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/dk/da/amp-form.html
+   - [no] 'Fyll ut med opplysningene dine for å opprette en AstraZeneca Connect-k'  https://www.astrazenecaconnect.net/no/no/melde-deg-pa/
+
+### C55  n=186  pdf=13% 3p=46% sites={'astrazenecaconnect.net': np.int64(178), 'astrazeneca.com': np.int64(7), 'astrazeneca.es': np.int64(1)}
+  tokens: njure hjarta diabetes product terapiomraden smpc och health material kronisk
+   - [sv] 'Gå till innehåll'  https://www.astrazeneca.se/
+   - [sv] 'Till sidinnehåll'  https://kunskapsbanken.cancercentrum.se/diagnoser/brostcancer/vardprogram/
+   - [sv] 'Hantera och använda läkemedel'  https://fass.se/health/product/20150609000018/smpc
+   - [sv] 'Patient- och informationsmaterial'  https://www.astrazenecaconnect.net/sv/sv/bestall-material/?filter-theraphyareas=.ta-respiratory&filter-brands=
+   - [sv] 'Astma hos barn'  https://www.lakemedelsverket.se/globalassets/dokument/behandling-och-forskrivning/behandlingsrekommendationer/
+   - [sv] 'Patient- och informationsmaterial'  https://www.astrazenecaconnect.net/sv/sv/bestall-material/?filter-theraphyareas=.ta-respiratory&filter-brands=
+
+### C56  n=85  pdf=0% 3p=0% sites={'az-oncology.jp': np.int64(85)}
+  tokens: cll life mcl faq treatments story stories what tests patient
+   - [ja] 'ロゴ CLLライフ'  https://www.az-oncology.jp/cll-life/cll/
+   - [ja] 'ロゴ CLLライフ'  https://www.az-oncology.jp/cll-life/cll/blood-leukemia/
+   - [ja] 'アストラゼネカ株式会社（AstraZeneca K.K.）ロゴ マントル細胞リンパ腫（MCL）の総合情報サイト MCLライフ'  https://www.az-oncology.jp/mcl-life/sitemap/
+   - [ja] 'アストラゼネカ株式会社（AstraZeneca K.K.）ロゴ マントル細胞リンパ腫（MCL）の総合情報サイト MCLライフ'  https://www.az-oncology.jp/mcl-life/what-disease/stage/
+   - [ja] 'アストラゼネカ株式会社（AstraZeneca K.K.）ロゴ マントル細胞リンパ腫（MCL）の総合情報サイト MCLライフ'  https://www.az-oncology.jp/mcl-life/treatments/transplant/
+   - [ja] 'ロゴ CLLライフ'  https://www.az-oncology.jp/cll-life/cll/recurrence-Intractable/
+
+### C57  n=90  pdf=99% 3p=0% sites={'astrazeneca-us.com': np.int64(89), 'astrazeneca.com': np.int64(1)}
+  tokens: documents form short contributions long report political confirmation filing astrazeneca
+   - [en] 'January - December 2023'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/Corporate-transparency/Contributions/2023-Contribut
+   - [en] 'COMMITTEE NAME'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/PoliticalContributions/jan-june-2022-pac-disburseme
+   - [en] 'Clerk of the House of Representatives'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/PoliticalContributions/ld_349750000_2020_q3_filed.p
+   - [en] '10/20/23, 5:19 PM'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/PoliticalContributions/Federal%20lobbying%20report_
+   - [en] 'Information for Vermont Prescribers of Prescription Drugs'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/Vermont/Vermont_July2026/Crestor-Short-Form-06-29-2
+   - [en] 'AstraZeneca Corporate Political Contributions'  https://www.astrazeneca-us.com/content/dam/az-us/Documents/PoliticalContributions/yearend_2020_corp_contributi
+
+### C58  n=64  pdf=0% 3p=100% sites={'astrazeneca.com': np.int64(37), 'astrazeneca-us.com': np.int64(22), 'azone.es': np.int64(2)}
+  tokens: study why widget will winter with within without women west
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT04609878?limit=25&term=KALOS&rank=1
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT04784715
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT04656652
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT00410384
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT03329690
+   - [en] 'Show glossary'  https://clinicaltrials.gov/study/NCT05246514
+
+### C59  n=147  pdf=0% 3p=0% sites={'medicalinformation.astrazeneca-us.com': np.int64(122), 'medicalinformation.astrazeneca.pt': np.int64(25)}
+  tokens: viewer congress with and patients the real world outcomes from
+   - [en] 'Natural history, management, and burden of disease in adults with NF1 '  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Real-world effectiveness of ravulizumab in C5 inhibitor-naive patients'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Prognostic Value of ESR1 Mutation Status in Metastatic Breast Cancer P'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Ultrasensitive detection and tracking of circulating tumor DNA (ctDNA)'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou
+   - [en] 'Evaluating the clinical and economic impact of SGLT-2 inhibitors for C'  https://www.medicalinformation.astrazeneca.pt/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.cloudfron
+   - [en] 'Manifestations, progression, and treatment impact of enzyme replacemen'  https://medicalinformation.astrazeneca-us.com/home/congress-pdf-viewer.html?pdfPath=https://dyoqhgq8g9vgo.clou

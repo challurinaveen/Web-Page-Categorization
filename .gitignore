@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------- secrets
+# page_categorisation/.env holds a live ANTHROPIC_API_KEY. Never commit it.
+.env
+*.env
+.env.*
+!.env.example
+
+# ------------------------------------------------- client data (never push)
+# The ten DCR site scans: 34,319 records, 1.09 GB, AstraZeneca page content.
+# On this machine `content/` is a Windows junction to the real location -
+# see START_HERE.md section 3 for how to recreate it.
+content/
+
+# ------------------------------------------- large, rebuildable intermediates
+# 169 MB. Rebuilt by scripts/01_ingest.py and scripts/02_features.py;
+# START_HERE.md step 6 has the command sequence.
+page_categorisation/data/
+
+# ------------------------------------------------------------ presentations
+# Decks are built from the code, not stored in it:
+#   node page_categorisation/scripts/deck/build_week1_deck.js Week1_Prototype_Review.pptx
+*.pptx
+*.potx
+*.ppt
+
+# -------------------------------------------------------- superseded by git
+# Old result files and logs kept on disk for provenance; git is the history now.
+page_categorisation/_archive/
+
+# ------------------------------------------------------------------ Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ------------------------------------------------------- Azure ML / tooling
+.ipynb_aml_checkpoints/
+*.amltmp
+*.amltemp
+.amlignore
+
+# --------------------------------------------------------------- node (deck)
+node_modules/
+package-lock.json
+
+# ------------------------------------------------------------------- scratch
+out.jsonl
+new_site_scan.json
+new_site_results.jsonl
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit secrets (the real one, never the .example)
+.streamlit/secrets.toml

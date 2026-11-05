@@ -1,0 +1,25 @@
+{
+ "tau_rules_type": 0.0,
+ "tau_rules_aud": 0.5,
+ "publish": 0.9,
+ "review": 0.7,
+ "cal": {
+  "rules_type": [
+   1.1765568557168453,
+   -0.12097709329023008
+  ],
+  "rules_aud": [
+   1.0243828136855007,
+   1.1023858786443586
+  ],
+  "model_type": [
+   0.519399261616691,
+   -0.08559065141134106
+  ],
+  "model_aud": [
+   0.23869404628571889,
+   0.05700035362229311
+  ]
+ },
+ "note": "thresholds from leave-one-site-out predictions on 800 gold pages; re-fit on every new gold batch"
+}

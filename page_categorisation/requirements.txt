@@ -1,0 +1,23 @@
+# Verified working set (Windows 11 / Python 3.14.6, 2026-11-03).
+# Lower bounds, not pins: the published accuracy numbers came from scikit-learn 1.7.2,
+# and 1.9.0 moves them by up to ~0.1 point. See the README, "Limitations".
+
+# --- core pipeline (tiers 1 and 2, fully local, no API key needed) ---
+pandas>=2.2
+scikit-learn>=1.7
+pyarrow>=16
+numpy>=1.26
+langdetect>=1.0.9
+sentence-transformers>=3.0     # pulls PyTorch: 2-3 GB download
+
+# --- charts for scripts/08_analyse.py ---
+matplotlib>=3.8
+
+# --- crawl_site.py, for sites with no DCR scan ---
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pypdf>=4.0
+
+# --- tier 3 only (optional; nothing else needs an API key) ---
+anthropic>=0.40

@@ -1,0 +1,17 @@
+{
+ "cascade_type_acc": 0.44125,
+ "cascade_aud_acc": 0.67625,
+ "rules_share": 0.36125,
+ "status_share": {
+  "llm_review": 0.97125,
+  "sampled": 0.02875
+ },
+ "status_type_acc": {
+  "llm_review": 0.43114543114543114,
+  "sampled": 0.782608695652174
+ },
+ "status_aud_acc": {
+  "llm_review": 0.6692406692406693,
+  "sampled": 0.9130434782608695
+ }
+}

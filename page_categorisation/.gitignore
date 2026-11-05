@@ -1,0 +1,13 @@
+# secrets - .env holds a live ANTHROPIC_API_KEY
+.env
+*.env
+
+# rebuildable intermediates (176 MB); see README "Reproduce"
+data/
+
+# generated
+__pycache__/
+*.pyc
+.ipynb_aml_checkpoints/
+*.amltmp
+*.amltemp

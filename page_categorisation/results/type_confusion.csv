@@ -1,0 +1,23 @@
+,Homepage / Hub,Gateway / Selector,Login / Registration,Contact / Locations,Legal & Compliance,Form / Request,Safety Reporting,About the Company,Investor Relations,News & Media,Article / Story,Sustainability,Product Information,Prescribing Information,Disease & Therapy Area,Clinical Evidence,Medical Education & Events,Patient Support,R&D & Science,Listing / Library,Utility / Error,Other
+Homepage / Hub,50,5,1,0,0,0,0,1,1,1,0,0,1,0,2,1,2,3,2,1,3,0
+Gateway / Selector,4,1,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,1,0
+Login / Registration,2,0,8,0,0,4,0,0,1,0,0,0,1,0,4,0,0,1,0,0,6,0
+Contact / Locations,1,0,0,6,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legal & Compliance,1,0,0,0,8,2,0,1,3,1,0,10,0,0,0,1,0,0,0,0,0,1
+Form / Request,4,0,0,3,1,2,0,0,0,0,0,0,0,0,0,1,0,2,2,0,1,0
+Safety Reporting,0,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+About the Company,2,1,0,0,1,0,0,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Investor Relations,1,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+News & Media,1,0,0,0,1,0,0,0,0,10,1,0,0,0,0,1,0,0,0,0,0,1
+Article / Story,0,0,0,0,1,0,0,0,1,4,7,3,0,0,5,1,0,1,1,0,0,0
+Sustainability,1,0,0,0,7,1,2,1,0,1,0,28,0,1,1,0,0,0,0,0,0,1
+Product Information,6,0,0,0,1,0,0,0,3,0,0,0,17,21,3,0,0,4,0,0,0,0
+Prescribing Information,1,0,0,0,0,0,0,0,0,0,0,0,1,15,0,0,0,0,1,0,0,0
+Disease & Therapy Area,5,3,0,0,3,0,0,4,5,7,4,2,4,1,48,4,8,7,1,0,1,3
+Clinical Evidence,4,0,0,0,1,0,0,1,4,0,2,1,3,0,14,62,14,1,1,0,10,9
+Medical Education & Events,5,1,0,0,2,0,0,2,6,2,3,2,0,0,4,1,8,0,0,0,6,2
+Patient Support,1,0,0,0,1,0,0,0,0,1,0,1,3,0,9,1,1,47,0,0,0,0
+R&D & Science,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,2,1,0,6,0,0,0
+Listing / Library,3,4,1,0,0,0,0,0,1,5,5,0,3,2,3,0,21,3,0,2,2,1
+Utility / Error,3,4,0,1,0,0,0,0,1,0,1,1,0,0,3,1,0,0,0,0,4,1
+Other,1,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,2,0,0,7

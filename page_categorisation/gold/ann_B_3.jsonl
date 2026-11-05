@@ -1,0 +1,200 @@
+{"gid":"G0440","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":"treatment options explainer"}
+{"gid":"G0521","type":"Medical Education & Events","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0693","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0746","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0231","type":"Disease & Therapy Area","audience":"General Public","conf":2,"note":""}
+{"gid":"G0210","type":"Legal & Compliance","audience":"General Public","conf":2,"note":"modern slavery statement; could be Sustainability"}
+{"gid":"G0143","type":"Sustainability","audience":"General Public","conf":2,"note":"external UN SDG page"}
+{"gid":"G0519","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"services section routing"}
+{"gid":"G0792","type":"Homepage / Hub","audience":"General Public","conf":2,"note":"social profile"}
+{"gid":"G0298","type":"Utility / Error","audience":"Unclear","conf":2,"note":"captcha shell"}
+{"gid":"G0428","type":"Utility / Error","audience":"Unclear","conf":3,"note":"404"}
+{"gid":"G0735","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0008","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0156","type":"Disease & Therapy Area","audience":"General Public","conf":1,"note":"public health program report"}
+{"gid":"G0539","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":3,"note":""}
+{"gid":"G0506","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0436","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":"recipe"}
+{"gid":"G0266","type":"Patient Support","audience":"General Public","conf":1,"note":"public screening event"}
+{"gid":"G0461","type":"Listing / Library","audience":"General Public","conf":1,"note":"unrelated tax agency FAQ index"}
+{"gid":"G0576","type":"Utility / Error","audience":"Healthcare Professional","conf":2,"note":"bare viewer shell"}
+{"gid":"G0338","type":"Form / Request","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0255","type":"About the Company","audience":"General Public","conf":3,"note":""}
+{"gid":"G0641","type":"Form / Request","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0677","type":"Login / Registration","audience":"Healthcare Professional","conf":2,"note":"empty body"}
+{"gid":"G0560","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0208","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0287","type":"Form / Request","audience":"Business Partner","conf":2,"note":"grant application form"}
+{"gid":"G0001","type":"Legal & Compliance","audience":"General Public","conf":2,"note":"privacy opt-out form"}
+{"gid":"G0341","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0269","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":"awareness campaign"}
+{"gid":"G0265","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0649","type":"Login / Registration","audience":"Healthcare Professional","conf":2,"note":"HCP gate over product page"}
+{"gid":"G0653","type":"Form / Request","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0095","type":"About the Company","audience":"General Public","conf":3,"note":""}
+{"gid":"G0766","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":"vaccine awareness poster"}
+{"gid":"G0042","type":"Legal & Compliance","audience":"General Public","conf":3,"note":""}
+{"gid":"G0640","type":"Safety Reporting","audience":"General Public","conf":1,"note":"AE/PQC/med info entry with country selector"}
+{"gid":"G0790","type":"Disease & Therapy Area","audience":"General Public","conf":2,"note":""}
+{"gid":"G0662","type":"Contact / Locations","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0628","type":"Medical Education & Events","audience":"Healthcare Professional","conf":1,"note":"empty body, external congress page"}
+{"gid":"G0045","type":"R&D & Science","audience":"General Public","conf":3,"note":""}
+{"gid":"G0161","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0629","type":"Medical Education & Events","audience":"Healthcare Professional","conf":1,"note":"empty body, external congress page"}
+{"gid":"G0288","type":"Form / Request","audience":"Business Partner","conf":1,"note":"award rules; no fitting type"}
+{"gid":"G0589","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0710","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0754","type":"Product Information","audience":"Healthcare Professional","conf":2,"note":"case study resource"}
+{"gid":"G0575","type":"Listing / Library","audience":"Healthcare Professional","conf":2,"note":"speaker bios"}
+{"gid":"G0315","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"congress slides"}
+{"gid":"G0230","type":"Contact / Locations","audience":"Business Partner","conf":2,"note":"external vendor support"}
+{"gid":"G0656","type":"Patient Support","audience":"Healthcare Professional","conf":1,"note":"patient booklet download on HCP site"}
+{"gid":"G0076","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0633","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0770","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"study info sheet"}
+{"gid":"G0247","type":"News & Media","audience":"Media","conf":2,"note":"empty body, media section"}
+{"gid":"G0476","type":"Other","audience":"General Public","conf":1,"note":"NEW:Government/regulatory policy document"}
+{"gid":"G0085","type":"Sustainability","audience":"General Public","conf":2,"note":"community contributions FAQ"}
+{"gid":"G0469","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"external society site"}
+{"gid":"G0225","type":"News & Media","audience":"General Public","conf":2,"note":"WHO news release"}
+{"gid":"G0331","type":"Form / Request","audience":"Healthcare Professional","conf":3,"note":"e-comms signup"}
+{"gid":"G0233","type":"Disease & Therapy Area","audience":"General Public","conf":2,"note":""}
+{"gid":"G0588","type":"Utility / Error","audience":"Healthcare Professional","conf":2,"note":"bare viewer shell"}
+{"gid":"G0475","type":"Form / Request","audience":"General Public","conf":2,"note":"external gov form template"}
+{"gid":"G0709","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0694","type":"Gateway / Selector","audience":"Healthcare Professional","conf":3,"note":"HCP confirmation"}
+{"gid":"G0599","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"therapy area routing page"}
+{"gid":"G0421","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0438","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0182","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0617","type":"Utility / Error","audience":"Unclear","conf":2,"note":"podcast embed player, no text"}
+{"gid":"G0332","type":"Medical Education & Events","audience":"Healthcare Professional","conf":2,"note":"quiz"}
+{"gid":"G0049","type":"Legal & Compliance","audience":"General Public","conf":3,"note":""}
+{"gid":"G0005","type":"About the Company","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0529","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"meeting slides"}
+{"gid":"G0234","type":"R&D & Science","audience":"Business Partner","conf":1,"note":"industry data-sharing principles"}
+{"gid":"G0486","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0718","type":"Prescribing Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0497","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":2,"note":""}
+{"gid":"G0715","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":"guideline"}
+{"gid":"G0106","type":"About the Company","audience":"General Public","conf":3,"note":""}
+{"gid":"G0443","type":"Form / Request","audience":"General Public","conf":3,"note":"personal data request forms"}
+{"gid":"G0488","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0646","type":"Form / Request","audience":"Healthcare Professional","conf":2,"note":"contact form shell"}
+{"gid":"G0012","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"poster viewer, title only"}
+{"gid":"G0190","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0282","type":"Article / Story","audience":"General Public","conf":2,"note":"survey infographic"}
+{"gid":"G0029","type":"Prescribing Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0169","type":"Listing / Library","audience":"General Public","conf":2,"note":"stories index"}
+{"gid":"G0180","type":"R&D & Science","audience":"General Public","conf":2,"note":"innovation strategy"}
+{"gid":"G0100","type":"Listing / Library","audience":"General Public","conf":2,"note":"links to many sites"}
+{"gid":"G0197","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0495","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":2,"note":"gated consensus content"}
+{"gid":"G0647","type":"Login / Registration","audience":"Healthcare Professional","conf":2,"note":"HCP gate"}
+{"gid":"G0774","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":"NHS vaccine info"}
+{"gid":"G0740","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0373","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":"patient brochure"}
+{"gid":"G0678","type":"Login / Registration","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0706","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":"asthma awareness site"}
+{"gid":"G0648","type":"Listing / Library","audience":"Healthcare Professional","conf":2,"note":"medicines list"}
+{"gid":"G0460","type":"Homepage / Hub","audience":"General Public","conf":2,"note":"unrelated org front page"}
+{"gid":"G0413","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0131","type":"Legal & Compliance","audience":"General Public","conf":3,"note":"political contributions"}
+{"gid":"G0039","type":"R&D & Science","audience":"Business Partner","conf":2,"note":"open innovation collaboration"}
+{"gid":"G0434","type":"Utility / Error","audience":"Unclear","conf":3,"note":"404"}
+{"gid":"G0215","type":"Listing / Library","audience":"General Public","conf":2,"note":"external stories index"}
+{"gid":"G0555","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":1,"note":"adherence white paper; no clean type"}
+{"gid":"G0566","type":"Medical Education & Events","audience":"Healthcare Professional","conf":2,"note":""}
+{"gid":"G0474","type":"Form / Request","audience":"General Public","conf":2,"note":"external gov form template"}
+{"gid":"G0456","type":"Homepage / Hub","audience":"General Public","conf":3,"note":"unrelated org front page"}
+{"gid":"G0260","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0035","type":"Utility / Error","audience":"Healthcare Professional","conf":2,"note":"video viewer shell"}
+{"gid":"G0309","type":"Disease & Therapy Area","audience":"General Public","conf":3,"note":""}
+{"gid":"G0276","type":"Homepage / Hub","audience":"General Public","conf":3,"note":"foundation front page"}
+{"gid":"G0636","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":"poster"}
+{"gid":"G0654","type":"Login / Registration","audience":"Healthcare Professional","conf":2,"note":"HCP gate"}
+{"gid":"G0622","type":"Homepage / Hub","audience":"Healthcare Professional","conf":3,"note":"journal front page"}
+{"gid":"G0393","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0107","type":"Disease & Therapy Area","audience":"General Public","conf":2,"note":"therapy area overview"}
+{"gid":"G0752","type":"Patient Support","audience":"Healthcare Professional","conf":2,"note":"PSP info on HCP site"}
+{"gid":"G0524","type":"Medical Education & Events","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0047","type":"R&D & Science","audience":"General Public","conf":2,"note":"clinical trial info site, empty text"}
+{"gid":"G0203","type":"Investor Relations","audience":"Investor","conf":3,"note":""}
+{"gid":"G0737","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0631","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0021","type":"Listing / Library","audience":"Healthcare Professional","conf":2,"note":""}
+{"gid":"G0402","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0083","type":"Legal & Compliance","audience":"General Public","conf":1,"note":"corporate transparency; could be Sustainability"}
+{"gid":"G0130","type":"Legal & Compliance","audience":"General Public","conf":3,"note":"political disbursements"}
+{"gid":"G0415","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0697","type":"Disease & Therapy Area","audience":"General Public","conf":3,"note":""}
+{"gid":"G0286","type":"Sustainability","audience":"General Public","conf":2,"note":"non-financial statement"}
+{"gid":"G0123","type":"Legal & Compliance","audience":"Healthcare Professional","conf":2,"note":"state price disclosure"}
+{"gid":"G0033","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"therapy area routing"}
+{"gid":"G0516","type":"Medical Education & Events","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0019","type":"Form / Request","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0738","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0219","type":"Disease & Therapy Area","audience":"General Public","conf":2,"note":""}
+{"gid":"G0795","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"vaccine advisory guidance"}
+{"gid":"G0481","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0356","type":"Contact / Locations","audience":"Healthcare Professional","conf":1,"note":"account manager profile page"}
+{"gid":"G0661","type":"Utility / Error","audience":"Unclear","conf":3,"note":"500 error"}
+{"gid":"G0224","type":"Article / Story","audience":"General Public","conf":3,"note":""}
+{"gid":"G0092","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":"list of external resources"}
+{"gid":"G0151","type":"Other","audience":"Business Partner","conf":1,"note":"external org partnership page"}
+{"gid":"G0780","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0317","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":2,"note":"cancer statistics report"}
+{"gid":"G0448","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":""}
+{"gid":"G0745","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0522","type":"Form / Request","audience":"Business Partner","conf":1,"note":"call for projects rules"}
+{"gid":"G0279","type":"Login / Registration","audience":"Healthcare Professional","conf":3,"note":"HCP gate"}
+{"gid":"G0583","type":"Listing / Library","audience":"Healthcare Professional","conf":2,"note":""}
+{"gid":"G0604","type":"Medical Education & Events","audience":"Healthcare Professional","conf":2,"note":"speaker bio for event"}
+{"gid":"G0349","type":"Medical Education & Events","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0374","type":"Disease & Therapy Area","audience":"General Public","conf":1,"note":"external health advice for pregnancy"}
+{"gid":"G0400","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":"patient stories"}
+{"gid":"G0704","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0257","type":"Utility / Error","audience":"Unclear","conf":3,"note":"empty search results"}
+{"gid":"G0072","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"social profile of society"}
+{"gid":"G0195","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0483","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0137","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0494","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0550","type":"Login / Registration","audience":"Healthcare Professional","conf":3,"note":"restricted content gate"}
+{"gid":"G0462","type":"Disease & Therapy Area","audience":"Patient / Caregiver","conf":2,"note":""}
+{"gid":"G0201","type":"Legal & Compliance","audience":"General Public","conf":2,"note":"gender pay disclosure; could be Careers/Sustainability"}
+{"gid":"G0312","type":"Article / Story","audience":"General Public","conf":2,"note":"WHO spotlight"}
+{"gid":"G0290","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0189","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0763","type":"Article / Story","audience":"Healthcare Professional","conf":2,"note":"essay collection"}
+{"gid":"G0112","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0183","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0152","type":"Homepage / Hub","audience":"Patient / Caregiver","conf":3,"note":"external org front page"}
+{"gid":"G0325","type":"Contact / Locations","audience":"General Public","conf":3,"note":""}
+{"gid":"G0703","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":"testimonials"}
+{"gid":"G0044","type":"Gateway / Selector","audience":"General Public","conf":3,"note":"country site chooser"}
+{"gid":"G0444","type":"Patient Support","audience":"Patient / Caregiver","conf":3,"note":"patient brochure"}
+{"gid":"G0006","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0250","type":"News & Media","audience":"Media","conf":3,"note":"press release archive"}
+{"gid":"G0075","type":"Clinical Evidence","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0512","type":"Homepage / Hub","audience":"Healthcare Professional","conf":2,"note":"service hub"}
+{"gid":"G0391","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"HTA/reimbursement decision"}
+{"gid":"G0432","type":"Utility / Error","audience":"Unclear","conf":3,"note":"404"}
+{"gid":"G0068","type":"Medical Education & Events","audience":"Healthcare Professional","conf":2,"note":""}
+{"gid":"G0167","type":"Sustainability","audience":"General Public","conf":3,"note":""}
+{"gid":"G0730","type":"Product Information","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0554","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":1,"note":"white paper; no clean type"}
+{"gid":"G0366","type":"Patient Support","audience":"Patient / Caregiver","conf":2,"note":"patient brochure/leaflet"}
+{"gid":"G0345","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":2,"note":"therapy area hub"}
+{"gid":"G0584","type":"Listing / Library","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0535","type":"News & Media","audience":"Healthcare Professional","conf":2,"note":"society news item"}
+{"gid":"G0398","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"HTA-style recommendation"}
+{"gid":"G0185","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
+{"gid":"G0348","type":"Medical Education & Events","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0615","type":"Listing / Library","audience":"Healthcare Professional","conf":1,"note":"regulator medicine search form"}
+{"gid":"G0211","type":"Sustainability","audience":"General Public","conf":3,"note":"code of ethics"}
+{"gid":"G0579","type":"Clinical Evidence","audience":"Healthcare Professional","conf":2,"note":"single poster page, little text"}
+{"gid":"G0502","type":"Disease & Therapy Area","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0537","type":"Login / Registration","audience":"Healthcare Professional","conf":3,"note":""}
+{"gid":"G0196","type":"Form / Request","audience":"General Public","conf":2,"note":"data subject request; could be Legal"}
+{"gid":"G0175","type":"Homepage / Hub","audience":"General Public","conf":3,"note":""}
